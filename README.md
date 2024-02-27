@@ -41,5 +41,6 @@ Here are some ideas to get you started:
 <div id="stats">
   <h2>Stats</h2>
   <img src="https://streak-stats.demolab.com?user=[kapucuonur]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 </div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
