@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 </p>  
 
 <p align="center"><a href="https://ko-fi.com/felipeelia"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="felipeelia" /></a></p>
-  ![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapucuonur&show_icons=true&theme=transparent)
+ 
 <div id="stats">
   <h2>Stats</h2>
   <img src="https://streak-stats.demolab.com?user=[kapucuonur]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapucuonur&theme=tokyonight"/>
 </div>
  
