@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **kapucuonur/kapucuonur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -11,7 +11,7 @@ background-color: seagreen;
     grid-column: span 12;
     grid-template-rows: 1fr 1fr 1fr;
 
-<!--
+
 **kapucuonur/kapucuonur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
