@@ -1,4 +1,4 @@
-[![MasterHead] <img align="top" alt="img" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coplus.co.uk%2Fnews%2Fcoplus-seek-full-stack-web-developer&psig=AOvVaw2FOafgdCumnDxehqm25pmq&ust=1709148607600000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCyzu6gzIQDFQAAAAAdAAAAABAF" width="500" height="320" />
+<img align="centre" alt="img" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coplus.co.uk%2Fnews%2Fcoplus-seek-full-stack-web-developer&psig=AOvVaw2FOafgdCumnDxehqm25pmq&ust=1709148607600000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCyzu6gzIQDFQAAAAAdAAAAABAF" width="500" height="320" />
 
 
 
