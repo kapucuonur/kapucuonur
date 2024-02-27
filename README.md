@@ -42,5 +42,6 @@ Here are some ideas to get you started:
   <h2>Stats</h2>
   <img src="https://streak-stats.demolab.com?user=[kapucuonur]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapucuonur&theme=tokyonight"/>
+	 <img src="https://github-readme-stats.vercel.app/api?username=kapucuonur&show_icons=true&theme=transparent"/>
 </div>
  
