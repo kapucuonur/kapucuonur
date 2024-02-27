@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 <img src="https://www.coplus.co.uk/media/2fknnobq/full-stack-web-dev.jpg">
 
 
