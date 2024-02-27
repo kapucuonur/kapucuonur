@@ -27,3 +27,9 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
 </p>  
 <p align="center"><a href="https://ko-fi.com/felipeelia"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="felipeelia" /></a></p>
+
+<div id="stats">
+  <h2>Stats</h2>
+  <img src="https://streak-stats.demolab.com?user=[kapucuonur]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[kapucuonur]&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</div>
