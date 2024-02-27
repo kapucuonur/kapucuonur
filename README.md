@@ -1,4 +1,4 @@
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapucuonur&show_icons=true&theme=transparent)
 
 <img src="https://www.coplus.co.uk/media/2fknnobq/full-stack-web-dev.jpg">
 
@@ -41,6 +41,5 @@ Here are some ideas to get you started:
 <div id="stats">
   <h2>Stats</h2>
   <img src="https://streak-stats.demolab.com?user=[kapucuonur]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-
 </div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+ 
