@@ -1,5 +1,5 @@
 
-<img src="https://www.coplus.co.uk/media/2fknnobq/full-stack-web-dev.jpg" height="350">
+<img src="https://www.coplus.co.uk/media/2fknnobq/full-stack-web-dev.jpg" height="500">
 
 
 
