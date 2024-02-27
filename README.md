@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
 	 <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
 </p>  
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coplus.co.uk%2Fnews%2Fcoplus-seek-full-stack-web-developer&psig=AOvVaw2FOafgdCumnDxehqm25pmq&ust=1709148607600000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCyzu6gzIQDFQAAAAAdAAAAABAF" width="500" height="320" />
 <p align="center"><a href="https://ko-fi.com/felipeelia"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="felipeelia" /></a></p>
 
 <div id="stats">
