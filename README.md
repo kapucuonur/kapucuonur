@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coplus.co.uk%2Fnews%2Fcoplus-seek-full-stack-web-developer&psig=AOvVaw2FOafgdCumnDxehqm25pmq&ust=1709148607600000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCyzu6gzIQDFQAAAAAdAAAAABAF"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coplus.co.uk%2Fnews%2Fcoplus-seek-full-stack-web-developer&psig=AOvVaw2FOafgdCumnDxehqm25pmq&ust=1709148607600000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCyzu6gzIQDFQAAAAAdAAAAABAF" height="50" width="210" alt="" /></a></p>
+<img src="https://www.coplus.co.uk/media/2fknnobq/full-stack-web-dev.jpg">
 
 
 
