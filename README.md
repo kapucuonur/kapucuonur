@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+   <img align="right" alt="GIF" src="https://www.cdipits.com/public/uploads/service-.gif" width="500" height="320" />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="WordPress" height="30" /></a>
