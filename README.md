@@ -3,7 +3,7 @@
                                                       Hello there 👋, I'm Onur
                                                                                                          
                                                          FULL STACK DEVELOPER
-                   <img src ="https://github.com/user-attachments/assets/e394c190-d842-4eb2-affc-399001ab846b" hight= 200px, width= 500px />
+<img src ="https://github.com/user-attachments/assets/e394c190-d842-4eb2-affc-399001ab846b" hight= 200px, width= 500px, vertical-align: centre;/>
 
 
 
