@@ -7,7 +7,7 @@
                                                          
  
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0ce7f6f7-2c44-4c78-a9fb-64cd5e641689)" alt="Profile Picture" />
+<picture>   <img src="https://github.com/user-attachments/assets/0ce7f6f7-2c44-4c78-a9fb-64cd5e641689)" alt="" /> </picture>
 </div>
 
 
