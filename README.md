@@ -12,10 +12,12 @@
 
 
 <br>
+
 - :technologist: I love using Developer tools as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Mobile Apps`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`,
+  
 <br>  
 
 
