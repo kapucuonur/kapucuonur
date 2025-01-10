@@ -5,7 +5,10 @@
                                                          FULL STACK DEVELOPER
 
                                                          
- <picture>   <img src = "https://github.com/user-attachments/assets/0ce7f6f7-2c44-4c78-a9fb-64cd5e641689" height = 350px, dispaly="flex" justify-content="centre"  text-align= "center"> </picture>
+ 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0ce7f6f7-2c44-4c78-a9fb-64cd5e641689)" alt="Profile Picture" />
+</div>
 
 
 
