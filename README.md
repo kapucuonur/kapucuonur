@@ -5,7 +5,7 @@
                                                          FULL STACK DEVELOPER
 
                                                          
- <picture>   <img align:"centre" src = "https://github.com/user-attachments/assets/0ce7f6f7-2c44-4c78-a9fb-64cd5e641689"> </picture>
+ <picture>   <img src = "https://github.com/user-attachments/assets/0ce7f6f7-2c44-4c78-a9fb-64cd5e641689"> </picture>
 
 
 
