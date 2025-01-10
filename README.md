@@ -1,11 +1,21 @@
-
+      <img src="https://www.makerstations.io/content/images/size/w1600/2021/05/basicappleguy-desk-setup-01.jpg" height=450px width=900px/>
 
                                                       Hello there 👋, I'm Onur
                                                                                                          
                                                          FULL STACK DEVELOPER
  
-<img src="https://www.makerstations.io/content/images/size/w1600/2021/05/basicappleguy-desk-setup-01.jpg" height=450px width=900px/>
 
+
+------
+
+<br><br>
+
+- :technologist: I love using Developer tools as a solution for every `Problem`.
+- :student: I’m currently learning `Computer Science` and `Mobile Apps`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, 
+
+<br>
 ------
 <h3 align="left">Languages and Tools:</h3>
 <table>
