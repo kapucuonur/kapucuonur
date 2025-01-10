@@ -15,7 +15,7 @@
 - :student: I’m currently learning `Computer Science` and `Mobile Apps`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`,
-</br>  
+<br>  
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
