@@ -5,7 +5,7 @@
                                                          FULL STACK DEVELOPER
  
 
-<img src="[https://www.makerstations.io/content/images/size/w1600/2021/05/basicappleguy-desk-setup-01.jpg](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*lC3rrn2y5aGpBY-t-mMaEw.jpeg)" height=450px width=900px/>
+<img src="https://www.makerstations.io/content/images/size/w1600/2021/05/basicappleguy-desk-setup-01.jpg](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*lC3rrn2y5aGpBY-t-mMaEw.jpeg" height=450px width=900px/>
 ------
 
 <br><br>
