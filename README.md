@@ -4,7 +4,7 @@
                                                                                                          
                                                          FULL STACK DEVELOPER
  
-<img src="https://www.makerstations.io/content/images/size/w1600/2021/05/basicappleguy-desk-setup-01.jpg" height=450px width=1050px/>
+<img src="https://www.makerstations.io/content/images/size/w1600/2021/05/basicappleguy-desk-setup-01.jpg" height=450px width=900px/>
 
 ------
 <h3 align="left">Languages and Tools:</h3>
