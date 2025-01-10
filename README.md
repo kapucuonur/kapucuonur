@@ -5,42 +5,31 @@
 
                                                       Hello there 👋, I'm Onur
                                                                                                          
-                                                         WEB DEVELOBER
+                                                         FULL STACK WEB DEVELOBER
 
 
 
-Here are some ideas to get you started:
+Tam zamanlı bir web geliştiriciyim. React, Node.js ve diğer birçok teknolojisi kullanarak harika projeler geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-   <img align="right" alt="GIF" src="https://www.cdipits.com/public/uploads/service-.gif" width="500" height="320" />
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-	<a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="WordPress" height="30" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30" /></a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub Actions" height="30" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="30" /></a>
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">	
+**Teknolojilerim**
+![React Logo](https://reactjs.org/logo-og.png) ![Node.js Logo](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg) ![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3.svg)
+![Django Logo](https://www.djangoproject.com/static/img/logos/django-logo-negative.svg) ![MongoDB Logo](https://www.mongodb.com/static/img/icons/mongodb-logo.svg)
+![Express.js Logo](https://expressjs.com/en/resources/images/express-logo.svg) ![CSS3 Logo](https://www.w3schools.com/css/css3_logo.gif) ![HTML5 Logo](https://www.w3schools.com/html/html5_logo.gif)
+![React Logo](https://reactjs.org/logo-og.png) ![Bootstrap Logo](https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo.svg)
+![TypeScript Logo](https://www.typescriptlang.org/img/typescript-logo.png)
+![Netlify Logo](https://www.netlify.com/img/press/netlify-logo-dark.svg)
+![Tailwind CSS Logo](https://tailwindcss.com/img/logo.svg)
+![Sass Logo](https://sass-lang.com/assets/img/logos/sass-logo.svg)
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Logo-Black.png)
+![Postman Logo](https://www.postman.com/static/img/logos/logo-postman.svg)
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-	 <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
-</p>  
+**Projelerim**
+| Proje | Teknolojiler | Demo | Repo |
+|---|---|---|---|
+| Stock Control | React, Redux, Material-UI | [Link] | [Repo Link] |
+| ... | ... | ... | ... |
 
-<p align="center"><a href="https://ko-fi.com/felipeelia"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="felipeelia" /></a></p>
- 
-<div id="stats">
-  <h2>Stats</h2>
-  <img src="https://streak-stats.demolab.com?user=[kapucuonur]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapucuonur&theme=tokyonight"/>
-	 <img src="https://github-readme-stats.vercel.app/api?username=kapucuonur&theme=dracula"/>
-</div>
- 
+**Bağlantılar**
+* LinkedIn: [Link]
+* Twitter: [Link]
+* Medium: [Link]
