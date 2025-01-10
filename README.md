@@ -10,12 +10,12 @@
 <picture>   <img src="https://github.com/user-attachments/assets/0ce7f6f7-2c44-4c78-a9fb-64cd5e641689" height = 350px, width= 450px/> </picture>
 </div>
 
-<div>
+<br>
 - :technologist: I love using Developer tools as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Mobile Apps`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`,
-</div>  
+</br>  
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
