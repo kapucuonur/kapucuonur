@@ -4,7 +4,7 @@
                                                                                                          
                                                          FULL STACK DEVELOPER
  
-<picture> <img align="right" src="[https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.makerstations.io%2Fbasicappleguy-desk-setup%2F&psig=AOvVaw1s4OUL0WEpBMZEuJviTkSG&ust=1736603587613000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCkz-um64oDFQAAAAAdAAAAABAE)raw=true" width = 250px></picture>
+<picture> <img align="right" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.makerstations.io%2Fbasicappleguy-desk-setup%2F&psig=AOvVaw1s4OUL0WEpBMZEuJviTkSG&ust=1736603587613000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCkz-um64oDFQAAAAAdAAAAABAE)raw=true" width = 250px>]</picture>
 
 ------
 <h3 align="left">Languages and Tools:</h3>
