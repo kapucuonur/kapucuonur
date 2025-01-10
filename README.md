@@ -3,9 +3,10 @@
                                                       Hello there 👋, I'm Onur
                                                                                                          
                                                          FULL STACK DEVELOPER
- 
+ ![StockCake-Modern Tech Setup_1736520193](https://github.com/user-attachments/assets/e394c190-d842-4eb2-affc-399001ab846b)
 
-<img src="https://stockcake.com/i/modern-tech-setup_855523_1098329" height=450px width=900px/>
+
+
 ------
 
 <br><br>
