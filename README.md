@@ -42,19 +42,9 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
     </tr>
   
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm"/></td>
-    </tr>
-  
-  
 </table>
 
-
+<h3 align="centre">MY PROJETC:</h3>
 | Project Live Link | Libraries and Technologies I use | Project Repo Link |
 |-------------------|----------------------------------|-------------------|
 | [Stock-Control-App](#) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI | [Repo Link](#) |
