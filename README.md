@@ -67,4 +67,30 @@
 </table>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepajarout&layout=compact)](https://github.com/deepajarout)
+| Project Live Link | Libraries and Technologies I use | Project Repo Link |
+|-------------------|----------------------------------|-------------------|
+| [Stock-Control-App](#) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - 
+   React toastify - ApexCharts - CRUD - RestAPI | [Repo Link](#) |
+| [Music Compass](#) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks - Formik - Yup - Material-UI - react-toastify - Firebase | [Repo 
+   Link](#) |
+| [The News](#) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks | [Repo Link](#) |
+| [Deniz Shopping](#) | React - Redux - axios - async/await - Material-UI - react-router - React Hooks | [Repo Link](#) |
+| [Foodie Recipes Hub](#) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API 
+  - React-icons | [Repo Link](#) |
+| [Shopping-Store](#) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - Vanillia Js - react-router - Sweetalert2 | [Repo Link](#) |
+| [Frida-react-router](#) | React - useState - useEffect - SASS - react-router - react-icons | [Repo Link](#) |
+| [DevLink-react-router](#) | React - useState - useEffect - async - await - axios - react-router - react-icons - react-bootstrap - bootstrap - sweetalert2 | [Repo Link](#) |
+| [Search-Pagination](#) | React - useState - useLocation - async - await - axios - react-router - react-bootstrap - bootstrap - sweetalert2 | [Repo Link](#) |
+| [TecnoStore](#) | React - useState - useEffect - useNavigation - async - await - axios - CRUD - MockApi - react-router - react-icons | [Repo Link](#) |
+| [Food List](#) | React - useState - Lifting-state-up | [Repo Link](#) |
+| [Random User with React](#) | React - useState - Axios - Async - Await - SweetAlert2 | [Repo Link](#)|
+| [To Do App](#) | React - useState | [Repo Link](#) |
+| [Netflix-App](https://github.com/kapucuonur/netflix-app) | React - useState - Module CSS - React-Bootstrap - Bootstrap - Lifting State Up | [Repo Link](https://netflix-app-rust.vercel.app/) |
+| [Puzzle Accord](#) | React - useState - Module CSS | [Repo Link](#) |
+| [Appointment App](#) | React - useState - useEffect - React-Bootstrap - Bootstrap - Module CSS - SweetAlert2 - localStorage | [Repo Link](#) |
+| [Employee-List](#) | React - useState - React-Bootstrap - Bootstrap - SASS | [Repo Link](#) |
+| [Hogwarts-Page](#) | React - useState - useRef | [Repo Link](#) |
+| [Football-Legends-App](https://github.com/kapucuonur/Football_Legends) | React - useState - useEffect - useRef | [Repo Link](https://footballegends.netlify.app/)) |
+| [Reminder-App](#) | React - useState - Modul CSS - SCSS | [Repo Link](#) |
+| [Counter-App](#) | React - useState | [Repo Link](#) |
+
