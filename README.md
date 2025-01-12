@@ -23,7 +23,6 @@
   
 <br>  
 
-
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
@@ -58,10 +57,7 @@
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/></td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,ios,android"/></td>
-    </tr>
+  
 </table>
 
 
