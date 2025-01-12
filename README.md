@@ -5,7 +5,6 @@
                                                          FULL STACK DEVELOPER
 
                                                          
- 
 <div align="center">
 <picture>   <img src="https://github.com/user-attachments/assets/0ce7f6f7-2c44-4c78-a9fb-64cd5e641689" 
                   height = "350px"
@@ -14,7 +13,6 @@
                   /> 
 </picture>
 </div>
-
 
 <br>
 
@@ -69,10 +67,8 @@
 
 | Project Live Link | Libraries and Technologies I use | Project Repo Link |
 |-------------------|----------------------------------|-------------------|
-| [Stock-Control-App](#) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - 
-   React toastify - ApexCharts - CRUD - RestAPI | [Repo Link](#) |
-| [Music Compass](#) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks - Formik - Yup - Material-UI - react-toastify - Firebase | [Repo 
-   Link](#) |
+| [Stock-Control-App](#) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI | [Repo Link](#) |
+| [Music Compass](#) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks - Formik - Yup - Material-UI - react-toastify - Firebase | [Repo Link](#) |
 | [The News](#) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks | [Repo Link](#) |
 | [Deniz Shopping](#) | React - Redux - axios - async/await - Material-UI - react-router - React Hooks | [Repo Link](#) |
 | [Foodie Recipes Hub](#) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API | - React-icons | [Repo Link](#) |
