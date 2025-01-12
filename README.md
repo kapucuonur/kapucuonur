@@ -10,7 +10,7 @@
                   /> 
 </picture>
 </div>
-                                           <h2 align="centre"> Hello 👋, I'm Onur                                           
+                                           <h2 style= "align:centre;"> Hello 👋, I'm Onur                                           
                                                        FULL STACK DEVELOPER:</h2>
 <br>
 
