@@ -53,10 +53,7 @@
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm"/></td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/></td>
-    </tr>
+  
   
 </table>
 
