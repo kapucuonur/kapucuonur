@@ -10,8 +10,8 @@
                   /> 
 </picture>
 </div>
-                                                        Hello 👋, I'm Onur                                           
-                                                       FULL STACK DEVELOPER
+                                           <h2 align="centre"> Hello 👋, I'm Onur                                           
+                                                       FULL STACK DEVELOPER:</h2>
 <br>
 
 - :technologist: I love using Developer tools as a solution for every `Problem`.
