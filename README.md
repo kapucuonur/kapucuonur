@@ -44,7 +44,7 @@
   
 </table>
 
-<h3 align="centre">MY PROJETC:</h3>
+
 | Project Live Link | Libraries and Technologies I use | Project Repo Link |
 |-------------------|----------------------------------|-------------------|
 | [Stock-Control-App](#) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI | [Repo Link](#) |
