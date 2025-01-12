@@ -1,9 +1,6 @@
       
 
-                                                      Hello there 👋, I'm Onur
-                                                                                                         
-                                                         FULL STACK DEVELOPER
-
+                                          
                                                          
 <div align="center">
 <picture>   <img src="https://github.com/user-attachments/assets/0ce7f6f7-2c44-4c78-a9fb-64cd5e641689" 
@@ -13,7 +10,8 @@
                   /> 
 </picture>
 </div>
-
+                                                        Hello 👋, I'm Onur                                           
+                                                       FULL STACK DEVELOPER
 <br>
 
 - :technologist: I love using Developer tools as a solution for every `Problem`.
