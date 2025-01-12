@@ -10,8 +10,8 @@
                   /> 
 </picture>
 </div>
-                                           <h2 style= "align:centre;"> Hello 👋, I'm Onur                                           
-                                                       FULL STACK DEVELOPER:</h2>
+                                           <h2 style= "vertical-align: center;"> Hello 👋, I'm Onur                                           
+                                                       FULL STACK DEVELOPER</h2>
 <br>
 
 - :technologist: I love using Developer tools as a solution for every `Problem`.
