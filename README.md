@@ -56,8 +56,8 @@
 | [Search-Pagination](#) | React - useState - useLocation - async - await - axios - react-router - react-bootstrap - bootstrap - sweetalert2 | [Repo Link](#) |
 | [TecnoStore](#) | React - useState - useEffect - useNavigation - async - await - axios - CRUD - MockApi - react-router - react-icons | [Repo Link](#) |
 | [Food List](#) | React - useState - Lifting-state-up | [Repo Link](#) |
-| [Random User with React](#) | React - useState - Axios - Async - Await - SweetAlert2 | [Repo Link](#)|
-| [To Do App](#) | React - useState | [Repo Link](#) |
+| [Random User ](https://github.com/kapucuonur/Ramdon-User) | React - useState - Axios - Async - Await - SweetAlert2 | [Repo Link](https://ramdon-user-jnyoyr37k-kapucuonurs-projects.vercel.app/)|
+| [Tutorial App](https://github.com/kapucuonur/tutorial-app) | React - useState | [Repo Link](https://tutorial-kzpy8h6dl-kapucuonurs-projects.vercel.app/) |
 | [Netflix-App](https://github.com/kapucuonur/netflix-app) | React - useState - Module CSS - React-Bootstrap - Bootstrap - Lifting State Up | [Repo Link](https://netflix-app-rust.vercel.app/) |
 | [Puzzle Accord](#) | React - useState - Module CSS | [Repo Link](#) |
 | [Appointment App](https://github.com/kapucuonur/appointment-app) | React - useState - useEffect - React-Bootstrap - Bootstrap - Module CSS - SweetAlert2 - localStorage | [Repo Link](https://appointment-lthi0maps-kapucuonurs-projects.vercel.app/) |
