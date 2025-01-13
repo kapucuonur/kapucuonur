@@ -54,7 +54,7 @@
 | [Frida-react-router](#) | React - useState - useEffect - SASS - react-router - react-icons | [Repo Link](#) |
 | [DevLink-react-router](#) | React - useState - useEffect - async - await - axios - react-router - react-icons - react-bootstrap - bootstrap - sweetalert2 | [Repo Link](#) |
 | [Search-Pagination](#) | React - useState - useLocation - async - await - axios - react-router - react-bootstrap - bootstrap - sweetalert2 | [Repo Link](#) |
-| [TecnoStore](#) | React - useState - useEffect - useNavigation - async - await - axios - CRUD - MockApi - react-router - react-icons | [Repo Link](#) |
+| [Onur Store](https://github.com/kapucuonur/Onur-Store) | React - useState - useEffect - useNavigation - async - await - axios - CRUD - MockApi - react-router - react-icons | [Repo Link](https://onur-store-ltugr59wh-kapucuonurs-projects.vercel.app/) |
 | [Food List](#) | React - useState - Lifting-state-up | [Repo Link](#) |
 | [Random User ](https://github.com/kapucuonur/Ramdon-User) | React - useState - Axios - Async - Await - SweetAlert2 | [Repo Link](https://ramdon-user-jnyoyr37k-kapucuonurs-projects.vercel.app/)|
 | [Tutorial App](https://github.com/kapucuonur/tutorial-app) | React - useState | [Repo Link](https://tutorial-kzpy8h6dl-kapucuonurs-projects.vercel.app/) |
