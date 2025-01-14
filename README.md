@@ -45,13 +45,13 @@
 
 | Project Live Link | Libraries and Technologies I use | Project Repo Link |
 |-------------------|----------------------------------|-------------------|
-| [Stock-Control-App](#) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI | [Repo Link](#) |
+| [Stock-App](https://github.com/kapucuonur/stock-app) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI | [Repo Link](https://stock-qg9tfa1ph-kapucuonurs-projects.vercel.app/) |
 | [Spotify Clone](https://github.com/kapucuonur/Spotify-Clone) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks - Formik - VITE - Material-UI - react-toastify - Firebase | [Repo Link](https://spotify-clone-nwg43xbur-kapucuonurs-projects.vercel.app/login/login.html) |
 | [The News](#) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks | [Repo Link](#) |
 | [Deniz Shopping](#) | React - Redux - axios - async/await - Material-UI - react-router - React Hooks | [Repo Link](#) |
 | [Foodie Recipes Hub](#) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons | [Repo Link](#) |
 | [Shopping-Store](#) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - Vanillia Js - react-router - Sweetalert2 | [Repo Link](#) |
-| [Frida-react-router](#) | React - useState - useEffect - SASS - react-router - react-icons | [Repo Link](#) |
+| [React-router](#) | React - useState - useEffect - SASS - react-router - react-icons | [Repo Link](#) |
 | [DevLink-react-router](#) | React - useState - useEffect - async - await - axios - react-router - react-icons - react-bootstrap - bootstrap - sweetalert2 | [Repo Link](#) |
 | [Search-Pagination](#) | React - useState - useLocation - async - await - axios - react-router - react-bootstrap - bootstrap - sweetalert2 | [Repo Link](#) |
 | [Onur Store](https://github.com/kapucuonur/Onur-Store) | React - useState - useEffect - useNavigation - async - await - axios - CRUD - MockApi - react-router - react-icons | [Repo Link](https://onur-store-ltugr59wh-kapucuonurs-projects.vercel.app/) |
