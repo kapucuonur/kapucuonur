@@ -46,7 +46,6 @@
 | Project Live Link | Libraries and Technologies I use | Project Repo Link |
 |-------------------|----------------------------------|-------------------|
 | [FullStack-StockApp](https://github.com/kapucuonur/FullStack_StockApp) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI - Node.js - Express - Mangodb - Mongoose | [Repo Link](https://fullstack-stockapp-wfdx.onrender.com/) |
-
 | [Stock-App](https://github.com/kapucuonur/stock-app) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI | [Repo Link](https://stock-qg9tfa1ph-kapucuonurs-projects.vercel.app/) |
 | [Spotify Clone](https://github.com/kapucuonur/Spotify-Clone) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks - Formik - VITE - Material-UI - react-toastify - Firebase | [Repo Link](https://spotify-clone-nwg43xbur-kapucuonurs-projects.vercel.app/login/login.html) |
 | [The News](#) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks | [Repo Link](#) |
