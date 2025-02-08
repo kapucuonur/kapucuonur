@@ -43,7 +43,7 @@
 </table>
 
 
-| Project Live Link | Libraries and Technologies I use | Project Repo Link |
+| Project Repo Link | Libraries and Technologies I use | Project Live Link |
 |-------------------|----------------------------------|-------------------|
 | [FullStack-StockApp](https://github.com/kapucuonur/FullStack_StockApp) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI - Node.js - Express - Mangodb - Mongoose | [Repo Link](https://fullstack-stockapp-wfdx.onrender.com/) |
 | [Stock-App](https://github.com/kapucuonur/stock-app) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI | [Repo Link](https://stock-qg9tfa1ph-kapucuonurs-projects.vercel.app/) |
@@ -51,7 +51,7 @@
 | [The News](https://github.com/kapucuonur/redux-toolkit-thenews) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks | [Repo Link](https://redux-toolkit-thenews-1.onrender.com) |
 | [FullStack-ReactPython-Tutorial](https://github.com/kapucuonur/React-Python-Tutorial) | Python, React, SQLite, SQLAlchemy, Flask, Chakra UI | [Repo Link](https://react-python-tutorial-ezkn.onrender.com/) |
 | [Your-Shop](https://github.com/kapucuonur/Your-Shop) | React - Redux - axios - async/await - Material-UI - react-router - React Hooks | [Repo Link](https://your-shop-7by1.onrender.com/) |
-| [Foodie Recipes Hub](#) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons | [Repo Link](#) |
+| [Food-Recipes](https://github.com/kapucuonur/Food-Recipes) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons | [Repo Link](https://food-recipes-5hmm.onrender.com/) |
 | [Shopping-Store](#) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - Vanillia Js - react-router - Sweetalert2 | [Repo Link](#) |
 | [React-router](#) | React - useState - useEffect - SASS - react-router - react-icons | [Repo Link](#) |
 | [DevLink-react-router](#) | React - useState - useEffect - async - await - axios - react-router - react-icons - react-bootstrap - bootstrap - sweetalert2 | [Repo Link](#) |
