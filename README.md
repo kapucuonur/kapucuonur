@@ -20,7 +20,7 @@
 - :thinking: I’m currently open for a new `job opportunity`,
   
 <br>  
-<h3>When I code, I rely on</h3>
+<h3 style= "vertical-align: center;">🛠 Tech Stack</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-F7B93E?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-F7B93E?style=flat-square&logo=javascript&logoColor=black" />
