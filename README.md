@@ -50,7 +50,7 @@
 | [Spotify Clone](https://github.com/kapucuonur/Spotify-Clone) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks - Formik - VITE - Material-UI - react-toastify - Firebase | [Repo Link](https://spotify-clone-nwg43xbur-kapucuonurs-projects.vercel.app/login/login.html) |
 | [The News](https://github.com/kapucuonur/redux-toolkit-thenews) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks | [Repo Link](https://redux-toolkit-thenews-1.onrender.com) |
 | [FullStack-ReactPython-Tutorial](https://github.com/kapucuonur/React-Python-Tutorial) | Python, React, SQLite, SQLAlchemy, Flask, Chakra UI | [Repo Link](https://react-python-tutorial-ezkn.onrender.com/) |
-| [Deniz Shopping](#) | React - Redux - axios - async/await - Material-UI - react-router - React Hooks | [Repo Link](#) |
+| [Your-Shop](https://github.com/kapucuonur/Your-Shop) | React - Redux - axios - async/await - Material-UI - react-router - React Hooks | [Repo Link](https://your-shop-7by1.onrender.com/) |
 | [Foodie Recipes Hub](#) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons | [Repo Link](#) |
 | [Shopping-Store](#) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - Vanillia Js - react-router - Sweetalert2 | [Repo Link](#) |
 | [React-router](#) | React - useState - useEffect - SASS - react-router - react-icons | [Repo Link](#) |
