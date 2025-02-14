@@ -76,6 +76,7 @@
 | [Products-List](https://github.com/kapucuonur/Products-List) | React - useState - React-Bootstrap - Bootstrap - SASS | [Repo Link](https://products-list-jqd0l8fq8-kapucuonurs-projects.vercel.app/) |
 | [Pictures-Gallery](https://github.com/kapucuonur/pictures-gallery) | React - useState - Bootstrap - ReactDom - Axios | [Repo Link](https://pictures-gallery-fvdn1zejg-kapucuonurs-projects.vercel.app/) |
 | [Football-Legends-App](https://github.com/kapucuonur/Football_Legends) | React - useState - useEffect - useRef | [Repo Link](https://footballegends.netlify.app/) |
+| [tetris-game](https://github.com/kapucuonur/tetris-game) | React - useState - CSS - HTML - Python | [Repo Link](https://tetris-game-3bln.onrender.com) |
 | [Reminder-App](#) | React - useState - Modul CSS - SCSS | [Repo Link](#) |
 | [Counter-App](#) | React - useState | [Repo Link](#) |
 
