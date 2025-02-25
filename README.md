@@ -10,45 +10,44 @@
                   /> 
 </picture>
 </div>
-                                           <h2 style= "vertical-align: center;"> Hello 👋, I'm Onur                                           
-                                                       FULL STACK DEVELOPER</h2>
+                                                                                    
+                                                     # FULL STACK DEVELOPER</h2>
 <br>
 
-- :technologist: I love using Developer tools as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Mobile Apps`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`,
+# Hello, I'm Onur 👋
+
+- 💻 **Full Stack Developer** with a passion for solving problems using the right tools.
+- 🌱 Currently learning **Computer Science** and **Mobile App Development**.
+- 🚀 Always exploring and learning new technologies.
+- 🔍 Open to new **job opportunities** and collaborations.
   
 <br>  
-<h3 style= "vertical-align: center;">🛠 Tech Stack</h3>
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-F7B93E?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-F7B93E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-F7B93E?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-F7B93E?style=flat-square&logo=react&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-F7B93E?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-jest-F7B93E?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-F7B93E?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-F7B93E?style=flat-square&logo=Adobe%20XD&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-F7B93E?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-F7B93E?style=flat-square&logo=webpack&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-F7B93E?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-F7B93E?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-F7B93E?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-F7B93E?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-F7B93E?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-F7B93E?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-F7B93E?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-F7B93E?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-F7B93E?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F7B93E?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-F7B93E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-F7B93E?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F7B93E?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-F7B93E?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+### Tools & Libraries
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
