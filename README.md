@@ -12,21 +12,29 @@
 </div>
 <br>
 <div align="center">
-  <svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="url(#grad1)" rx="15"/>
+  <svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+    <!-- Gradient Background -->
     <defs>
       <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
         <stop offset="0%" style="stop-color:#4A90E2; stop-opacity:1"/>
         <stop offset="100%" style="stop-color:#8E44AD; stop-opacity:1"/>
       </linearGradient>
+      <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+        <feDropShadow dx="3" dy="3" stdDeviation="3" flood-color="rgba(0,0,0,0.5)"/>
+      </filter>
     </defs>
-    <text x="50%" y="50%" font-size="36" font-family="Montserrat, sans-serif"
-          fill="white" font-weight="bold" text-anchor="middle" alignment-baseline="middle">
-      🚀 FULL STACK DEVELOPER 🚀
+
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="url(#grad1)" rx="15"/>
+
+    <!-- Icon & Text -->
+    <text x="50%" y="50%" font-size="40" font-family="Poppins, sans-serif"
+          fill="white" font-weight="bold" text-anchor="middle" 
+          alignment-baseline="middle" filter="url(#shadow)">
+      🖥️ Full Stack Developer 💡
     </text>
   </svg>
 </div>
-
 
 <br>
 
