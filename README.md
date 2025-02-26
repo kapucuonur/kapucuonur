@@ -11,8 +11,8 @@
 </picture>
 </div>
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-<strong>Full Stack Developer</strong>
+![Full Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-4A90E2?style=flat&logo=code&logoColor=white)
+
 
 <br>
 
