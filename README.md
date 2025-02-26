@@ -10,9 +10,20 @@
                   /> 
 </picture>
 </div>
-<h1 style="font-size: 36px; font-weight: bold; color: #4A90E2; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);">
+<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="url(#grad1)" rx="15"/>
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4A90E2; stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#8E44AD; stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="50%" font-size="36" font-family="Montserrat, sans-serif"
+        fill="white" font-weight="bold" text-anchor="middle" alignment-baseline="middle">
     🚀 FULL STACK DEVELOPER 🚀
-  </h1>
+  </text>
+</svg>
+
 <br>
 
 # Hello, I'm Onur 👋
