@@ -10,8 +10,9 @@
                   /> 
 </picture>
 </div>
-                                                                                    
-                                                     # FULL STACK DEVELOPER
+<h1 style="font-size: 36px; font-weight: bold; color: #4A90E2; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);">
+    🚀 FULL STACK DEVELOPER 🚀
+  </h1>
 <br>
 
 # Hello, I'm Onur 👋
