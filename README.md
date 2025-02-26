@@ -11,8 +11,9 @@
 </picture>
 </div>
 <br>
-![Full Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-4A90E2?style=flat&logo=code&logoColor=white)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-4A90E2?style=flat&logo=code&logoColor=white" alt="Full Stack Developer" />
+</div>
 
 <br>
 
