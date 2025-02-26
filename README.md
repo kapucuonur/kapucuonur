@@ -11,7 +11,7 @@
 </picture>
 </div>
                                                                                     
-                                                     # FULL STACK DEVELOPER</h2>
+                                                     # FULL STACK DEVELOPER
 <br>
 
 # Hello, I'm Onur 👋
