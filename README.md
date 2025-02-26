@@ -10,7 +10,7 @@
                   /> 
 </picture>
 </div>
-
+<br>
 <div align="center">
   <svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
     <rect width="100%" height="100%" fill="url(#grad1)" rx="15"/>
