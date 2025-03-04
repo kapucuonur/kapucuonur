@@ -21,7 +21,7 @@
 # Hello, I'm Onur 👋
 
 - 💻 **Full Stack Developer** with a passion for solving problems using the right tools.
-- 🌱 Currently learning **Computer Science** and **Mobile App Development**.
+- 🌱 Currently learning **Computer Science** , **Mobile App Development** and **AI**
 - 🚀 Always exploring and learning new technologies.
 - 🔍 Open to new **job opportunities** and collaborations.
   
