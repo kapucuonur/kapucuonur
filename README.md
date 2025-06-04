@@ -101,7 +101,7 @@
 | [DevLink-Router](https://github.com/kapucuonur/DevLink-Router) | React - useState - useEffect - async - await - axios - react-router - react-icons - react-bootstrap - bootstrap - sweetalert2 | [Repo Link](https://devlink-router.onrender.com/login) |
 | [Search-Pagination](#) | React - useState - useLocation - async - await - axios - react-router - react-bootstrap - bootstrap - sweetalert2 | [Repo Link](#) |
 | [Onur Store](https://github.com/kapucuonur/Onur-Store) | React - useState - useEffect - useNavigation - async - await - axios - CRUD - MockApi - react-router - react-icons | [Repo Link](https://onur-store-ltugr59wh-kapucuonurs-projects.vercel.app/) |
-| [Food List](#) | React - useState - Lifting-state-up | [Repo Link](#) |
+| [Food List](https://github.com/kapucuonur/food-list) | React - useState - Lifting-state-up | [Repo Link](https://dulcet-piroshki-9a2a9e.netlify.app/) |
 | [Random User ](https://github.com/kapucuonur/Ramdon-User) | React - useState - Axios - Async - Await - SweetAlert2 | [Repo Link](https://ramdon-user-jnyoyr37k-kapucuonurs-projects.vercel.app/)|
 | [Tutorial App](https://github.com/kapucuonur/tutorial-app) | React - useState | [Repo Link](https://tutorial-kzpy8h6dl-kapucuonurs-projects.vercel.app/) |
 | [Netflix-App](https://github.com/kapucuonur/netflix-app) | React - useState - Module CSS - React-Bootstrap - Bootstrap - Lifting State Up | [Repo Link](https://netflix-app-rust.vercel.app/) |
