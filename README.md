@@ -114,33 +114,171 @@
 | [Reminder-App](#) | React - useState - Modul CSS - SCSS | [Repo Link](#) |
 | [Counter-App](#) | React - useState | [Repo Link](#) |
 
-Project Repo Link	Libraries and Technologies I use	Project Live Link
-Repo Link	React - useState - Redux Toolkit - Redux Persist - React Hooks - axios - async/await - Material UI - React Toastify - TailwindCSS - Formik - Yup - SQLite - TensorFlow / Keras - Pickle - Flask - Gunicorn - Flask-CORS - GrodAPI -	DevChatbot-AI
-Repo Link	Fask - useState -GroqAPI - Modern UI - Render - React Hooks - React - SQLite	OnurAI-Chat
-Repo Link	React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI - Node.js - Express - Mangodb - Mongoose	FullStack-StockApp
-Repo Link	Python - Django - Cloudinary - React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI - Node.js - Express - Postgress	FullStack-Python-Blog-App
-Repo Link	React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI	Stock-App
-Repo Link	React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks - Formik - VITE - Material-UI - react-toastify - Firebase	Spotify Clone
-Repo Link	React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks	The News
-Repo Link	Python, React, SQLite, SQLAlchemy, Flask, Chakra UI	FullStack-ReactPython-Tutorial
-Repo Link	React - Redux - axios - async/await - Material-UI - react-router - React Hooks	Your-Shop
-Repo Link	React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons	Food-Recipes
-Repo Link	React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - Vanillia Js - react-router - Sweetalert2	Shopping-Store
-Repo Link	React - useState - useEffect - SASS - react-router - react-icons	React-router
-Repo Link	React - useState - useEffect - async - await - axios - react-router - react-icons - react-bootstrap - bootstrap - sweetalert2	DevLink-Router
-Repo Link	React - useState - useLocation - async - await - axios - react-router - react-bootstrap - bootstrap - sweetalert2	Search-Pagination
-Repo Link	React - useState - useEffect - useNavigation - async - await - axios - CRUD - MockApi - react-router - react-icons	Onur Store
-Repo Link	React - useState - Lifting-state-up	Food List
-Repo Link	React - useState - Axios - Async - Await - SweetAlert2	Random User
-Repo Link	React - useState	Tutorial App
-Repo Link	React - useState - Module CSS - React-Bootstrap - Bootstrap - Lifting State Up	Netflix-App
-Repo Link	Bootstrap - Vanilla JavaScript - SweetAlert2 - API - Async - Await - CSS3 - VITE	Cripto-coin-app
-Repo Link	React - useState - useEffect - React-Bootstrap - Bootstrap - Module CSS - SweetAlert2 - localStorage	Appointment App
-Repo Link	React - useState - React-Bootstrap - Bootstrap - SASS	Products-List
-Repo Link	React - useState - Bootstrap - ReactDom - Axios	Pictures-Gallery
-Repo Link	React - useState - useEffect - useRef	Football-Legends-App
-Repo Link	React - useState - CSS - HTML - Python	tetris-game
-Reminder-App	React - useState - Modul CSS - SCSS	Repo Link
-Counter-App	React - useState	Repo Link
+
+Project Repo Link
+
+Libraries and Technologies I use
+
+Project Live Link
+
+Repo Link
+
+React - useState - Redux Toolkit - Redux Persist - React Hooks - axios - async/await - Material UI - React Toastify - TailwindCSS - Formik - Yup - SQLite - TensorFlow / Keras - Pickle - Flask - Gunicorn - Flask-CORS - GrodAPI -
+
+DevChatbot-AI
+
+Repo Link
+
+Fask - useState -GroqAPI - Modern UI - Render - React Hooks - React - SQLite
+
+OnurAI-Chat
+
+Repo Link
+
+React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI - Node.js - Express - Mangodb - Mongoose
+
+FullStack-StockApp
+
+Repo Link
+
+Python - Django - Cloudinary - React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI - Node.js - Express - Postgress
+
+FullStack-Python-Blog-App
+
+Repo Link
+
+React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI
+
+Stock-App
+
+Repo Link
+
+React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks - Formik - VITE - Material-UI - react-toastify - Firebase
+
+Spotify Clone
+
+Repo Link
+
+React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks
+
+The News
+
+Repo Link
+
+Python, React, SQLite, SQLAlchemy, Flask, Chakra UI
+
+FullStack-ReactPython-Tutorial
+
+Repo Link
+
+React - Redux - axios - async/await - Material-UI - react-router - React Hooks
+
+Your-Shop
+
+Repo Link
+
+React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons
+
+Food-Recipes
+
+Repo Link
+
+React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - Vanillia Js - react-router - Sweetalert2
+
+Shopping-Store
+
+Repo Link
+
+React - useState - useEffect - SASS - react-router - react-icons
+
+React-router
+
+Repo Link
+
+React - useState - useEffect - async - await - axios - react-router - react-icons - react-bootstrap - bootstrap - sweetalert2
+
+DevLink-Router
+
+Repo Link
+
+React - useState - useLocation - async - await - axios - react-router - react-bootstrap - bootstrap - sweetalert2
+
+Search-Pagination
+
+Repo Link
+
+React - useState - useEffect - useNavigation - async - await - axios - CRUD - MockApi - react-router - react-icons
+
+Onur Store
+
+Repo Link
+
+React - useState - Lifting-state-up
+
+Food List
+
+Repo Link
+
+React - useState - Axios - Async - Await - SweetAlert2
+
+Random User 
+
+Repo Link
+
+React - useState
+
+Tutorial App
+
+Repo Link
+
+React - useState - Module CSS - React-Bootstrap - Bootstrap - Lifting State Up
+
+Netflix-App
+
+Repo Link
+
+Bootstrap - Vanilla JavaScript - SweetAlert2 - API - Async - Await - CSS3 - VITE
+
+Cripto-coin-app
+
+Repo Link
+
+React - useState - useEffect - React-Bootstrap - Bootstrap - Module CSS - SweetAlert2 - localStorage
+
+Appointment App
+
+Repo Link
+
+React - useState - React-Bootstrap - Bootstrap - SASS
+
+Products-List
+
+Repo Link
+
+React - useState - Bootstrap - ReactDom - Axios
+
+Pictures-Gallery
+
+Repo Link
+
+React - useState - useEffect - useRef
+
+Football-Legends-App
+
+Repo Link
+
+React - useState - CSS - HTML - Python
+
+tetris-game
+
+Reminder-App
+
+React - useState - Modul CSS - SCSS
+
+Repo Link
+
+Counter-App
+
+React - useState
 
 
