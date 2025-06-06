@@ -115,170 +115,35 @@
 | [Counter-App](#) | React - useState | [Repo Link](#) |
 
 
-Project Repo Link
+| Project Repo Link | Libraries and Technologies I use | Project Live Link |
+|-------------------|----------------------------------|-------------------|
+| [DevChatbot-AI](https://github.com/kapucuonur/DevChatbot-AI/tree/main) | React - useState - Redux Toolkit - Redux Persist - React Hooks - axios - async/await - Material UI - React Toastify - TailwindCSS - Formik - Yup - SQLite - TensorFlow / Keras - Pickle - Flask - Gunicorn - Flask-CORS - GroqAPI | [Live Link](https://devchatbot-ai.onrender.com/) |
+| [OnurAI-Chat](https://github.com/kapucuonur/OnurAI-Chat) | Flask - useState - GroqAPI - Modern UI - Render - React Hooks - React - SQLite | [Live Link](https://onurai-chat.onrender.com/) |
+| [FullStack-StockApp](https://github.com/kapucuonur/FullStack_StockApp) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - React Toastify - ApexCharts - CRUD - RestAPI - Node.js - Express - MongoDB - Mongoose | [Live Link](https://fullstack-stockapp-wfdx.onrender.com/) |
+| [FullStack-Python-Blog-App](https://github.com/kapucuonur/Blog_App_Python) | Python - Django - Cloudinary - React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - React Toastify - ApexCharts - CRUD - RestAPI - Node.js - Express - PostgreSQL | [Live Link](https://blog-app-python-2s96.onrender.com) |
+| [Stock-App](https://github.com/kapucuonur/stock-app) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - React Toastify - ApexCharts - CRUD - RestAPI | [Live Link](https://stock-qg9tfa1ph-kapucuonurs-projects.vercel.app/) |
+| [Spotify Clone](https://github.com/kapucuonur/Spotify-Clone) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks - Formik - Vite - React Toastify - Firebase | [Live Link](https://spotify-clone-nwg43xbur-kapucuonurs-projects.vercel.app/) |
+| [The News](https://github.com/kapucuonur/redux-toolkit-thenews) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks | [Live Link](https://redux-toolkit-thenews-1.onrender.com) |
+| [FullStack-ReactPython-Tutorial](https://github.com/kapucuonur/React-Python-Tutorial) | Python - React - SQLite - SQLAlchemy - Flask - Chakra UI | [Live Link](https://react-python-tutorial-ezkn.onrender.com/) |
+| [Your-Shop](https://github.com/kapucuonur/Your-Shop) | React - Redux - axios - async/await - Material-UI - react-router - React Hooks | [Live Link](https://your-shop-7by1.onrender.com/) |
+| [Food-Recipes](https://github.com/kapucuonur/Food-Recipes) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - React Toastify - Firebase - Context API - React-icons | [Live Link](https://food-recipes-5hmm.onrender.com/) |
+| [Shopping-Store](https://github.com/kapucuonur/Shopping-Store) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - Vanilla JS - react-router - SweetAlert2 | *Not Deployed* |
+| [React-router](https://github.com/kapucuonur/React-Router) | React - useState - useEffect - SASS - react-router - react-icons | [Live Link](https://bright-dodol-01b322.netlify.app/) |
+| [DevLink-Router](https://github.com/kapucuonur/DevLink-Router) | React - useState - useEffect - async - await - axios - react-router - react-icons - react-bootstrap - bootstrap - SweetAlert2 | [Live Link](https://devlink-router.onrender.com/) |
+| [Search-Pagination](https://github.com/kapucuonur/Search-Pagination) | React - useState - useLocation - async - await - axios - react-router - react-bootstrap - bootstrap - SweetAlert2 | *Not Deployed* |
+| [Onur Store](https://github.com/kapucuonur/Onur-Store) | React - useState - useEffect - useNavigation - async - await - axios - CRUD - MockAPI - react-router - react-icons | [Live Link](https://onur-store-ltugr59wh-kapucuonurs-projects.vercel.app/) |
+| [Food List](https://github.com/kapucuonur/food-list) | React - useState - Lifting-state-up | [Live Link](https://dulcet-piroshki-9a2a9e.netlify.app/) |
+| [Random User](https://github.com/kapucuonur/Ramdon-User) | React - useState - Axios - Async - Await - SweetAlert2 | [Live Link](https://ramdon-user-jnyoyr37k-kapucuonurs-projects.vercel.app/) |
+| [Tutorial App](https://github.com/kapucuonur/tutorial-app) | React - useState | [Live Link](https://tutorial-kzpy8h6dl-kapucuonurs-projects.vercel.app/) |
+| [Netflix-App](https://github.com/kapucuonur/netflix-app) | React - useState - Module CSS - React-Bootstrap - Bootstrap - Lifting State Up | [Live Link](https://netflix-app-rust.vercel.app/) |
+| [Cripto-coin-app](https://github.com/kapucuonur/cripto-coin-app) | Bootstrap - Vanilla JavaScript - SweetAlert2 - API - Async - Await - CSS3 - Vite | [Live Link](https://silly-naiad-92ff9e.netlify.app/) |
+| [Appointment App](https://github.com/kapucuonur/appointment-app) | React - useState - useEffect - React-Bootstrap - Bootstrap - Module CSS - SweetAlert2 - localStorage | [Live Link](https://appointment-lthi0maps-kapucuonurs-projects.vercel.app/) |
+| [Products-List](https://github.com/kapucuonur/Products-List) | React - useState - React-Bootstrap - Bootstrap - SASS | [Live Link](https://products-list-jqd0l8fq8-kapucuonurs-projects.vercel.app/) |
+| [Pictures-Gallery](https://github.com/kapucuonur/pictures-gallery) | React - useState - Bootstrap - ReactDom - Axios | [Live Link](https://pictures-gallery-fvdn1zejg-kapucuonurs-projects.vercel.app/) |
+| [Football-Legends-App](https://github.com/kapucuonur/Football_Legends) | React - useState - useEffect - useRef | [Live Link](https://footballegends.netlify.app/) |
+| [Tetris-Game](https://github.com/kapucuonur/tetris-game) | React - useState - CSS - HTML - Python | [Live Link](https://tetris-game-3bln.onrender.com) |
+| [Reminder-App](https://github.com/kapucuonur/Reminder-App) | React - useState - Module CSS - SCSS | *Not Deployed* |
+| [Counter-App](https://github.com/kapucuonur/Counter-App) | React - useState | *Not Deployed* |
 
-Libraries and Technologies I use
-
-Project Live Link
-
-Repo Link
-
-React - useState - Redux Toolkit - Redux Persist - React Hooks - axios - async/await - Material UI - React Toastify - TailwindCSS - Formik - Yup - SQLite - TensorFlow / Keras - Pickle - Flask - Gunicorn - Flask-CORS - GrodAPI -
-
-DevChatbot-AI
-
-Repo Link
-
-Fask - useState -GroqAPI - Modern UI - Render - React Hooks - React - SQLite
-
-OnurAI-Chat
-
-Repo Link
-
-React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI - Node.js - Express - Mangodb - Mongoose
-
-FullStack-StockApp
-
-Repo Link
-
-Python - Django - Cloudinary - React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI - Node.js - Express - Postgress
-
-FullStack-Python-Blog-App
-
-Repo Link
-
-React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - Material-UI - React toastify - ApexCharts - CRUD - RestAPI
-
-Stock-App
-
-Repo Link
-
-React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks - Formik - VITE - Material-UI - react-toastify - Firebase
-
-Spotify Clone
-
-Repo Link
-
-React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks
-
-The News
-
-Repo Link
-
-Python, React, SQLite, SQLAlchemy, Flask, Chakra UI
-
-FullStack-ReactPython-Tutorial
-
-Repo Link
-
-React - Redux - axios - async/await - Material-UI - react-router - React Hooks
-
-Your-Shop
-
-Repo Link
-
-React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons
-
-Food-Recipes
-
-Repo Link
-
-React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - Vanillia Js - react-router - Sweetalert2
-
-Shopping-Store
-
-Repo Link
-
-React - useState - useEffect - SASS - react-router - react-icons
-
-React-router
-
-Repo Link
-
-React - useState - useEffect - async - await - axios - react-router - react-icons - react-bootstrap - bootstrap - sweetalert2
-
-DevLink-Router
-
-Repo Link
-
-React - useState - useLocation - async - await - axios - react-router - react-bootstrap - bootstrap - sweetalert2
-
-Search-Pagination
-
-Repo Link
-
-React - useState - useEffect - useNavigation - async - await - axios - CRUD - MockApi - react-router - react-icons
-
-Onur Store
-
-Repo Link
-
-React - useState - Lifting-state-up
-
-Food List
-
-Repo Link
-
-React - useState - Axios - Async - Await - SweetAlert2
-
-Random User 
-
-Repo Link
-
-React - useState
-
-Tutorial App
-
-Repo Link
-
-React - useState - Module CSS - React-Bootstrap - Bootstrap - Lifting State Up
-
-Netflix-App
-
-Repo Link
-
-Bootstrap - Vanilla JavaScript - SweetAlert2 - API - Async - Await - CSS3 - VITE
-
-Cripto-coin-app
-
-Repo Link
-
-React - useState - useEffect - React-Bootstrap - Bootstrap - Module CSS - SweetAlert2 - localStorage
-
-Appointment App
-
-Repo Link
-
-React - useState - React-Bootstrap - Bootstrap - SASS
-
-Products-List
-
-Repo Link
-
-React - useState - Bootstrap - ReactDom - Axios
-
-Pictures-Gallery
-
-Repo Link
-
-React - useState - useEffect - useRef
-
-Football-Legends-App
-
-Repo Link
-
-React - useState - CSS - HTML - Python
-
-tetris-game
-
-Reminder-App
-
-React - useState - Modul CSS - SCSS
-
-Repo Link
-
-Counter-App
-
-React - useState
 
 
