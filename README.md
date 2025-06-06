@@ -96,7 +96,7 @@
 | [FullStack-ReactPython-Tutorial](https://github.com/kapucuonur/React-Python-Tutorial) | Python - React - SQLite - SQLAlchemy - Flask - Chakra UI | [Live Link](https://react-python-tutorial-ezkn.onrender.com/) |
 | [Your-Shop](https://github.com/kapucuonur/Your-Shop) | React - Redux - axios - async/await - Material-UI - react-router - React Hooks | [Live Link](https://your-shop-7by1.onrender.com/) |
 | [Food-Recipes](https://github.com/kapucuonur/Food-Recipes) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - React Toastify - Firebase - Context API - React-icons | [Live Link](https://food-recipes-5hmm.onrender.com/) |
-| [Shopping-Store](https://github.com/kapucuonur/Shopping-Store) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - Vanilla JS - react-router - SweetAlert2 | *Not Deployed* |
+| [Shopping-Store](https://github.com/kapucuonur/Shopping-Store) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - Vanilla JS - react-router - SweetAlert2 | [Live Link](https://storied-pasca-024fe8.netlify.app/) |
 | [React-router](https://github.com/kapucuonur/React-Router) | React - useState - useEffect - SASS - react-router - react-icons | [Live Link](https://bright-dodol-01b322.netlify.app/) |
 | [DevLink-Router](https://github.com/kapucuonur/DevLink-Router) | React - useState - useEffect - async - await - axios - react-router - react-icons - react-bootstrap - bootstrap - SweetAlert2 | [Live Link](https://devlink-router.onrender.com/) |
 | [Search-Pagination](https://github.com/kapucuonur/Search-Pagination) | React - useState - useLocation - async - await - axios - react-router - react-bootstrap - bootstrap - SweetAlert2 | *Not Deployed* |
@@ -111,7 +111,7 @@
 | [Pictures-Gallery](https://github.com/kapucuonur/pictures-gallery) | React - useState - Bootstrap - ReactDom - Axios | [Live Link](https://pictures-gallery-fvdn1zejg-kapucuonurs-projects.vercel.app/) |
 | [Football-Legends-App](https://github.com/kapucuonur/Football_Legends) | React - useState - useEffect - useRef | [Live Link](https://footballegends.netlify.app/) |
 | [Tetris-Game](https://github.com/kapucuonur/tetris-game) | React - useState - CSS - HTML - Python | [Live Link](https://tetris-game-3bln.onrender.com) |
-| [Reminder-App](https://github.com/kapucuonur/Reminder-App) | React - useState - Module CSS - SCSS | *Not Deployed* |
+| [Reminder-App](https://github.com/kapucuonur/Reminder-App) | React - useState - Module CSS - SCSS | [Live Link](https://fanciful-bavarois-6ec443.netlify.app/) |
 | [Counter-App](https://github.com/kapucuonur/Counter-App) | React - useState | *Not Deployed* |
 
 
