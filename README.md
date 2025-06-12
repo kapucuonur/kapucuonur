@@ -112,7 +112,7 @@
 | [Football-Legends-App](https://github.com/kapucuonur/Football_Legends) | React - useState - useEffect - useRef | [Live Link](https://footballegends.netlify.app/) |
 | [Tetris-Game](https://github.com/kapucuonur/tetris-game) | React - useState - CSS - HTML - Python | [Live Link](https://tetris-game-3bln.onrender.com) |
 | [Reminder-App](https://github.com/kapucuonur/Reminder-App) | React - useState - Module CSS - SCSS | [Live Link](https://fanciful-bavarois-6ec443.netlify.app/) |
-| [Counter-App](https://github.com/kapucuonur/Counter-App) | React - useState | *Not Deployed* |
+| [Counter-App](https://github.com/kapucuonur/counter-app) | React - useState | [Live Link](https://counter-e70dmrkd8-kapucuonurs-projects.vercel.app/) |
 
 
 
