@@ -8,7 +8,7 @@
 
 🚀 Building scalable web applications with **React**, **Node.js**, and **Python**  
 🤖 Specializing in **AI-powered solutions** and **modern web architectures**  
-📍 Based in **Helsinki, Finland** 🇫🇮  
+📍 Based in **Tampere, Finland** 🇫🇮  
 💼 **Open to new opportunities** - Remote | Hybrid | Relocation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-kapucu/)
