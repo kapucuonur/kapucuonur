@@ -1,120 +1,254 @@
-      
-
-                                          
-                                                         
 <div align="center">
-<picture>   <img src="https://github.com/user-attachments/assets/0ce7f6f7-2c44-4c78-a9fb-64cd5e641689" 
-                  height = "350px"
-                  width= "550px"
-                  style="clip-path: inset(0 round 10px);"
-                  /> 
-</picture>
+
+![Developer Banner](https://github.com/user-attachments/assets/0ce7f6f7-2c44-4c78-a9fb-64cd5e641689)
+
+# Hi there, I'm Onur Kapucu 👋
+
+### Full Stack Developer | AI Enthusiast | Problem Solver
+
+🚀 Building scalable web applications with **React**, **Node.js**, and **Python**  
+🤖 Specializing in **AI-powered solutions** and **modern web architectures**  
+📍 Based in **Helsinki, Finland** 🇫🇮  
+💼 **Open to new opportunities** - Remote | Hybrid | Relocation
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-kapucu/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kapucuonur)
+
 </div>
-<br>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const onur = {
+    location: "Helsinki, Finland",
+    role: "Full Stack Developer",
+    experience: "3+ years",
+    languages: ["JavaScript", "Python", "TypeScript", "SQL"],
+    currentFocus: ["AI Integration", "Cloud Architecture", "Web3"],
+    learning: ["Computer Science", "Mobile Development", "Machine Learning"],
+    availableFor: "Full-time opportunities & interesting projects"
+};
+```
+
+I'm passionate about creating **impactful digital solutions** that solve real-world problems. From **AI-powered applications** to **complex e-commerce systems**, I enjoy the entire journey from concept to deployment.
+
+**What drives me:** Clean code, user experience, and continuous learning.
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### AI & Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
 <div align="center">
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-4A90E2?style=flat&logo=code&logoColor=white" 
-       alt="Full Stack Developer" width="300px" />
+
+### 🚀 Top 3 Projects
+
 </div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 [DigiLibrary](https://digilibray.netlify.app/)
+AI-powered digital library with smart recommendations
+
+**Highlights:**
+- 🧠 Google Gemini API integration
+- 💳 Stripe payment system
+- 📚 10,000+ books database
+- ⚡ 95+ Lighthouse score
+
+**Tech:** React, Node.js, MongoDB, AI
+
+[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://digilibray.netlify.app/)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/kapucuonur/digilibrary-app)
+
+</td>
+<td width="33%" valign="top">
+
+### 💬 [DevChatbot AI](https://devchatbot-ai.onrender.com/)
+ML-powered chatbot with voice recognition
+
+**Highlights:**
+- 🎤 Speech-to-text capability
+- 🧠 95% intent accuracy
+- 📊 TensorFlow model
+- ⚡ <500ms response time
+
+**Tech:** React, Flask, TensorFlow, Groq
+
+[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://devchatbot-ai.onrender.com/)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/kapucuonur/DevChatbot-AI)
+
+</td>
+<td width="33%" valign="top">
+
+### 📦 [Stock Management](https://fullstack-stockapp-wfdx.onrender.com/)
+Real-time inventory tracking system
+
+**Highlights:**
+- 📊 Interactive dashboards
+- 📈 ApexCharts analytics
+- 👥 Multi-user support
+- 🔄 Real-time updates
+
+**Tech:** React, Redux, Express, MongoDB
+
+[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://fullstack-stockapp-wfdx.onrender.com/)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/kapucuonur/FullStack_StockApp)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📂 All Projects Portfolio
+
+<details>
+<summary><b>🔽 Click to see all 30+ projects with live demos</b></summary>
 
 <br>
 
-# Hello, I'm Onur 👋
+| Project | Tech Stack | Live Demo |
+|---------|-----------|-----------|
+| **[Digilibrary](https://github.com/kapucuonur/digilibrary-app)** | React • Node.js • MongoDB • Google AI • Stripe • Netlify | [🔗 Live](https://digilibray.netlify.app/) |
+| **[DevChatbot-AI](https://github.com/kapucuonur/DevChatbot-AI)** | React • Flask • TensorFlow • Groq API • Redux • SQLite | [🔗 Live](https://devchatbot-ai.onrender.com/) |
+| **[ChatbotVoice-AI](https://github.com/kapucuonur/chatbotvoice-AI)** | Flask • JavaScript • PostgreSQL • Web Speech API | [🔗 Live](https://chatbotvoice-ai.onrender.com) |
+| **[OnurAI-Chat](https://github.com/kapucuonur/OnurAI-Chat)** | Flask • React • Groq API • SQLite | [🔗 Live](https://onurai-chat.onrender.com/) |
+| **[FullStack-StockApp](https://github.com/kapucuonur/FullStack_StockApp)** | React • Redux • Node.js • Express • MongoDB • ApexCharts | [🔗 Live](https://fullstack-stockapp-wfdx.onrender.com/) |
+| **[Blog-App-Python](https://github.com/kapucuonur/Blog_App_Python)** | Django • React • PostgreSQL • Cloudinary • Redux | [🔗 Live](https://blog-app-python-2s96.onrender.com) |
+| **[Stock-App](https://github.com/kapucuonur/stock-app)** | React • Redux • Material-UI • Formik • ApexCharts | [🔗 Live](https://stock-qg9tfa1ph-kapucuonurs-projects.vercel.app/) |
+| **[Spotify Clone](https://github.com/kapucuonur/Spotify-Clone)** | React • Redux • Firebase • Material-UI • Vite | [🔗 Live](https://spotify-clone-nwg43xbur-kapucuonurs-projects.vercel.app/) |
+| **[The News](https://github.com/kapucuonur/redux-toolkit-thenews)** | React • Redux Toolkit • Material-UI • Axios | [🔗 Live](https://redux-toolkit-thenews-1.onrender.com) |
+| **[React-Python-Tutorial](https://github.com/kapucuonur/React-Python-Tutorial)** | React • Flask • SQLAlchemy • Chakra UI | [🔗 Live](https://react-python-tutorial-ezkn.onrender.com/) |
+| **[Your-Shop](https://github.com/kapucuonur/Your-Shop)** | React • Redux • Material-UI • React Router | [🔗 Live](https://your-shop-7by1.onrender.com/) |
+| **[Food-Recipes](https://github.com/kapucuonur/Food-Recipes)** | React • Firebase • Context API • Tailwind CSS | [🔗 Live](https://food-recipes-5hmm.onrender.com/) |
+| **[Shopping-Store](https://github.com/kapucuonur/Shopping-Store)** | React • Tailwind • SweetAlert2 • Context API | [🔗 Live](https://storied-pasca-024fe8.netlify.app/) |
+| **[React-Router](https://github.com/kapucuonur/React-Router)** | React • SASS • React Router • React Icons | [🔗 Live](https://bright-dodol-01b322.netlify.app/) |
+| **[DevLink-Router](https://github.com/kapucuonur/DevLink-Router)** | React • Bootstrap • React Router • SweetAlert2 | [🔗 Live](https://devlink-router.onrender.com/) |
+| **[Google Clone](https://github.com/kapucuonur/google-clone)** | Next.js • React • Tailwind • Google API | [🔗 Live](https://google-clone-one-sigma.vercel.app/) |
+| **[Onur Store](https://github.com/kapucuonur/Onur-Store)** | React • Axios • MockAPI • React Router | [🔗 Live](https://onur-store-ltugr59wh-kapucuonurs-projects.vercel.app/) |
+| **[Food List](https://github.com/kapucuonur/food-list)** | React • State Management | [🔗 Live](https://dulcet-piroshki-9a2a9e.netlify.app/) |
+| **[Random User](https://github.com/kapucuonur/Ramdon-User)** | React • Axios • SweetAlert2 | [🔗 Live](https://ramdon-user-jnyoyr37k-kapucuonurs-projects.vercel.app/) |
+| **[Tutorial App](https://github.com/kapucuonur/tutorial-app)** | React • useState | [🔗 Live](https://tutorial-kzpy8h6dl-kapucuonurs-projects.vercel.app/) |
+| **[Netflix-App](https://github.com/kapucuonur/netflix-app)** | React • Bootstrap • Module CSS | [🔗 Live](https://netflix-app-rust.vercel.app/) |
+| **[Crypto-Coin-App](https://github.com/kapucuonur/cripto-coin-app)** | Vanilla JS • Bootstrap • Vite • API | [🔗 Live](https://silly-naiad-92ff9e.netlify.app/) |
+| **[Appointment App](https://github.com/kapucuonur/appointment-app)** | React • Bootstrap • LocalStorage | [🔗 Live](https://appointment-lthi0maps-kapucuonurs-projects.vercel.app/) |
+| **[Products-List](https://github.com/kapucuonur/Products-List)** | React • Bootstrap • SASS | [🔗 Live](https://products-list-jqd0l8fq8-kapucuonurs-projects.vercel.app/) |
+| **[Pictures-Gallery](https://github.com/kapucuonur/pictures-gallery)** | React • Bootstrap • Axios | [🔗 Live](https://pictures-gallery-fvdn1zejg-kapucuonurs-projects.vercel.app/) |
+| **[Football-Legends](https://github.com/kapucuonur/Football_Legends)** | React • useState • useEffect | [🔗 Live](https://footballegends.netlify.app/) |
+| **[Tetris-Game](https://github.com/kapucuonur/tetris-game)** | React • Python • CSS | [🔗 Live](https://tetris-game-3bln.onrender.com) |
+| **[Reminder-App](https://github.com/kapucuonur/Reminder-App)** | React • Module CSS • SCSS | [🔗 Live](https://fanciful-bavarois-6ec443.netlify.app/) |
+| **[Counter-App](https://github.com/kapucuonur/counter-app)** | React • useState | [🔗 Live](https://counter-e70dmrkd8-kapucuonurs-projects.vercel.app/) |
 
-- 💻 **Full Stack Developer** with a passion for solving problems using the right tools.
-- 🌱 Currently learning **Computer Science** , **Mobile App Development** and **AI**
-- 🚀 Always exploring and learning new technologies.
-- 🔍 Open to new **job opportunities** and collaborations.
-  
-<br>  
+</details>
 
-## 🛠️ Tech Stack
+---
 
-### Frontend  
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
-</p>
+## 📊 GitHub Analytics
 
-### Backend  
-<p align="left">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
-</p>
+<div align="center">
 
-### Tools & Libraries  
-<p align="left">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapucuonur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapucuonur&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kapucuonur&theme=tokyonight&hide_border=true)
 
-| Project Repo Link | Libraries and Technologies I use | Project Live Link |
-|-------------------|----------------------------------|-------------------|
-| [Digilibrary](https://github.com/kapucuonur/digilibrary-app) | Backend: Node.js, Express.js, Netlify Functions, JWT, bcryptjs Frontend: React, Vite, React Router, Context API, Tailwind CSS, Lucide React Database: MongoDB, Mongoose AI & APIs: Google Gemini API, Google Books API, Stripe, Iyzico, SendGrid Deployment: Netlify, MongoDB Atlas Development Tools: ESLint, Postman, Environment Variables | [Live Link](https://digilibray.netlify.app/) |
-| [DevChatbot-AI](https://github.com/kapucuonur/DevChatbot-AI/tree/main) | React - useState - Redux Toolkit - Redux Persist - React Hooks - axios - async/await - Material UI - React Toastify - TailwindCSS - Formik - Yup - SQLite - TensorFlow / Keras - Pickle - Flask - Gunicorn - Flask-CORS - GroqAPI | [Live Link](https://devchatbot-ai.onrender.com/) |
-| [DevChatbot-AI: Voice & Text Chatbot System](https://github.com/kapucuonur/chatbotvoice-AI) | **Backend (Python)** Flask, Flask-SQLAlchemy, Flask-Login, Flask-Migrate, Werkzeug.security, Groq, Flask-Dance (Facebook & Google OAuth), python-dotenv, Gunicorn, psycopg2-binary **Frontend (Web)** HTML5, CSS3, JavaScript, Tailwind CSS, Web Speech API (SpeechRecognition, SpeechSynthesis) **Database** SQLite (Development), PostgreSQL (Production) | [Live Link](https://chatbotvoice-ai.onrender.com) |
-| [OnurAI-Chat](https://github.com/kapucuonur/OnurAI-Chat) | Flask - useState - GroqAPI - Modern UI - Render - React Hooks - React - SQLite | [Live Link](https://onurai-chat.onrender.com/) |
-| [FullStack-StockApp](https://github.com/kapucuonur/FullStack_StockApp) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - React Toastify - ApexCharts - CRUD - RestAPI - Node.js - Express - MongoDB - Mongoose | [Live Link](https://fullstack-stockapp-wfdx.onrender.com/) |
-| [FullStack-Python-Blog-App](https://github.com/kapucuonur/Blog_App_Python) | Python - Django - Cloudinary - React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - React Toastify - ApexCharts - CRUD - RestAPI - Node.js - Express - PostgreSQL | [Live Link](https://blog-app-python-2s96.onrender.com) |
-| [Stock-App](https://github.com/kapucuonur/stock-app) | React - Redux-Toolkit - React-Redux - React Hooks - Redux-persist - axios - async/await - Material-UI - TailwindCSS - Formik - Yup - React Toastify - ApexCharts - CRUD - RestAPI | [Live Link](https://stock-qg9tfa1ph-kapucuonurs-projects.vercel.app/) |
-| [Spotify Clone](https://github.com/kapucuonur/Spotify-Clone) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks - Formik - Vite - React Toastify - Firebase | [Live Link](https://spotify-clone-nwg43xbur-kapucuonurs-projects.vercel.app/) |
-| [The News](https://github.com/kapucuonur/redux-toolkit-thenews) | React - Redux-Toolkit - axios - async/await - Material-UI - react-router - React Hooks | [Live Link](https://redux-toolkit-thenews-1.onrender.com) |
-| [FullStack-ReactPython-Tutorial](https://github.com/kapucuonur/React-Python-Tutorial) | Python - React - SQLite - SQLAlchemy - Flask - Chakra UI | [Live Link](https://react-python-tutorial-ezkn.onrender.com/) |
-| [Your-Shop](https://github.com/kapucuonur/Your-Shop) | React - Redux - axios - async/await - Material-UI - react-router - React Hooks | [Live Link](https://your-shop-7by1.onrender.com/) |
-| [Food-Recipes](https://github.com/kapucuonur/Food-Recipes) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - React Toastify - Firebase - Context API - React-icons | [Live Link](https://food-recipes-5hmm.onrender.com/) |
-| [Shopping-Store](https://github.com/kapucuonur/Shopping-Store) | React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - Vanilla JS - react-router - SweetAlert2 | [Live Link](https://storied-pasca-024fe8.netlify.app/) |
-| [React-router](https://github.com/kapucuonur/React-Router) | React - useState - useEffect - SASS - react-router - react-icons | [Live Link](https://bright-dodol-01b322.netlify.app/) |
-| [DevLink-Router](https://github.com/kapucuonur/DevLink-Router) | React - useState - useEffect - async - await - axios - react-router - react-icons - react-bootstrap - bootstrap - SweetAlert2 | [Live Link](https://devlink-router.onrender.com/) |
-| [Search-Pagination](https://github.com/kapucuonur/google-clone) | React - useState - useLocation - async - await - axios - react-router - react-bootstrap - bootstrap - SweetAlert2 - - Tailwindcss - Next.js - googleAPI | [Live Link](https://google-clone-one-sigma.vercel.app/) |
-| [Onur Store](https://github.com/kapucuonur/Onur-Store) | React - useState - useEffect - useNavigation - async - await - axios - CRUD - MockAPI - react-router - react-icons | [Live Link](https://onur-store-ltugr59wh-kapucuonurs-projects.vercel.app/) |
-| [Food List](https://github.com/kapucuonur/food-list) | React - useState - Lifting-state-up | [Live Link](https://dulcet-piroshki-9a2a9e.netlify.app/) |
-| [Random User](https://github.com/kapucuonur/Ramdon-User) | React - useState - Axios - Async - Await - SweetAlert2 | [Live Link](https://ramdon-user-jnyoyr37k-kapucuonurs-projects.vercel.app/) |
-| [Tutorial App](https://github.com/kapucuonur/tutorial-app) | React - useState | [Live Link](https://tutorial-kzpy8h6dl-kapucuonurs-projects.vercel.app/) |
-| [Netflix-App](https://github.com/kapucuonur/netflix-app) | React - useState - Module CSS - React-Bootstrap - Bootstrap - Lifting State Up | [Live Link](https://netflix-app-rust.vercel.app/) |
-| [Cripto-coin-app](https://github.com/kapucuonur/cripto-coin-app) | Bootstrap - Vanilla JavaScript - SweetAlert2 - API - Async - Await - CSS3 - Vite | [Live Link](https://silly-naiad-92ff9e.netlify.app/) |
-| [Appointment App](https://github.com/kapucuonur/appointment-app) | React - useState - useEffect - React-Bootstrap - Bootstrap - Module CSS - SweetAlert2 - localStorage | [Live Link](https://appointment-lthi0maps-kapucuonurs-projects.vercel.app/) |
-| [Products-List](https://github.com/kapucuonur/Products-List) | React - useState - React-Bootstrap - Bootstrap - SASS | [Live Link](https://products-list-jqd0l8fq8-kapucuonurs-projects.vercel.app/) |
-| [Pictures-Gallery](https://github.com/kapucuonur/pictures-gallery) | React - useState - Bootstrap - ReactDom - Axios | [Live Link](https://pictures-gallery-fvdn1zejg-kapucuonurs-projects.vercel.app/) |
-| [Football-Legends-App](https://github.com/kapucuonur/Football_Legends) | React - useState - useEffect - useRef | [Live Link](https://footballegends.netlify.app/) |
-| [Tetris-Game](https://github.com/kapucuonur/tetris-game) | React - useState - CSS - HTML - Python | [Live Link](https://tetris-game-3bln.onrender.com) |
-| [Reminder-App](https://github.com/kapucuonur/Reminder-App) | React - useState - Module CSS - SCSS | [Live Link](https://fanciful-bavarois-6ec443.netlify.app/) |
-| [Counter-App](https://github.com/kapucuonur/counter-app) | React - useState | [Live Link](https://counter-e70dmrkd8-kapucuonurs-projects.vercel.app/) |
+</div>
 
+---
 
+## 💼 What I Offer
 
+```
+✅ Full Stack Web Development
+✅ AI/ML Integration (OpenAI, Google Gemini, TensorFlow)
+✅ E-commerce Solutions (Payment Integration)
+✅ RESTful API Development
+✅ Database Design & Optimization
+✅ Cloud Deployment (AWS, Netlify, Vercel)
+✅ Responsive UI/UX Design
+✅ Performance Optimization
+```
+
+---
+
+## 🎯 Currently
+
+- 🔭 Working on: **AI-powered SaaS applications**
+- 🌱 Learning: **Advanced ML, Cloud Architecture, Web3**
+- 👯 Looking to collaborate on: **Open-source projects, Startups**
+- 💼 Open to: **Full-time opportunities** (Remote / Helsinki / EU)
+- 📫 Reach me: **your.email@example.com**
+
+---
+
+## 📈 2025 Goals
+
+- [ ] Contribute to 5 major open-source projects
+- [ ] Launch a SaaS product
+- [ ] Master TypeScript & advanced patterns
+- [ ] Obtain AWS certification
+- [ ] Write 24 technical blog posts
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-kapucu/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapucuonur)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kapucuonur)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapucuonur@hotmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kapucu.onur/)
+
+**💬 I usually respond within 24 hours**
+
+</div>
+
+---
+
+<div align="center">
+
+### "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=kapucuonur&color=blueviolet&style=for-the-badge)
+
+**⭐ Star my repos if you find them interesting!**
+
+Made with ❤️ in Helsinki, Finland 🇫🇮
+
+</div>
