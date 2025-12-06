@@ -211,7 +211,7 @@ Real-time inventory tracking system
 - 🌱 Learning: **Advanced ML, Cloud Architecture, Web3**
 - 👯 Looking to collaborate on: **Open-source projects, Startups**
 - 💼 Open to: **Full-time opportunities** (Remote / Helsinki / EU)
-- 📫 Reach me: **your.email@example.com**
+- 📫 Reach me: **kapucuonur@hotmail.com**
 
 ---
 
