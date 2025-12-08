@@ -180,10 +180,13 @@ Real-time inventory tracking system
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapucuonur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onurkapucu&show_icons=true&theme=tokyonight&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapucuonur&layout=compact&theme=tokyonight&hide_border=true)
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onurkapucu&layout=compact&langs_count=8&hide_border=true&theme=tokyonight)
 
+## GitHub Steak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kapucuonur&theme=tokyonight&hide_border=true)
 
 </div>
