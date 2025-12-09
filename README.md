@@ -182,11 +182,13 @@ Real-time inventory tracking system
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapucuonur&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapucuonur&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 🧠 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapucuonur&layout=compact&langs_count=8&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapucuonur&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+
+### 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kapucuonur&theme=tokyonight&hide_border=true)
 
@@ -253,6 +255,6 @@ Real-time inventory tracking system
 
 **⭐ Star my repos if you find them interesting!**
 
-Made with ❤️ in Tampere, Finland 🇫🇮
+Made with ❤️ in Helsinki, Finland 🇫🇮
 
 </div>
