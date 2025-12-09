@@ -124,7 +124,7 @@ Real-time inventory tracking system
 
 **Tech:** React, Redux, Express, MongoDB
 
-[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://fullstack-stockapp-outp.onrender.com/)
+[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://fullstack-stockapp-wfdx.onrender.com/)
 [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/kapucuonur/FullStack_StockApp)
 
 </td>
@@ -146,7 +146,7 @@ Real-time inventory tracking system
 | **[DevChatbot-AI](https://github.com/kapucuonur/DevChatbot-AI)** | React • Flask • TensorFlow • Groq API • Redux • SQLite | [🔗 Live](https://devchatbot-ai.onrender.com/) |
 | **[ChatbotVoice-AI](https://github.com/kapucuonur/chatbotvoice-AI)** | Flask • JavaScript • PostgreSQL • Web Speech API | [🔗 Live](https://chatbotvoice-ai.onrender.com) |
 | **[OnurAI-Chat](https://github.com/kapucuonur/OnurAI-Chat)** | Flask • React • Groq API • SQLite | [🔗 Live](https://onurai-chat.onrender.com/) |
-| **[FullStack-StockApp](https://github.com/kapucuonur/FullStack_StockApp)** | React • Redux • Node.js • Express • MongoDB • ApexCharts | [🔗 Live](https://fullstack-stockapp-outp.onrender.com/) |
+| **[FullStack-StockApp](https://github.com/kapucuonur/FullStack_StockApp)** | React • Redux • Node.js • Express • MongoDB • ApexCharts | [🔗 Live](https://fullstack-stockapp-wfdx.onrender.com/) |
 | **[Blog-App-Python](https://github.com/kapucuonur/Blog_App_Python)** | Django • React • PostgreSQL • Cloudinary • Redux | [🔗 Live](https://blog-app-python-2s96.onrender.com) |
 | **[Stock-App](https://github.com/kapucuonur/stock-app)** | React • Redux • Material-UI • Formik • ApexCharts | [🔗 Live](https://stock-qg9tfa1ph-kapucuonurs-projects.vercel.app/) |
 | **[Spotify Clone](https://github.com/kapucuonur/Spotify-Clone)** | React • Redux • Firebase • Material-UI • Vite | [🔗 Live](https://spotify-clone-nwg43xbur-kapucuonurs-projects.vercel.app/) |
@@ -179,12 +179,28 @@ Real-time inventory tracking system
 ## 📊 GitHub Analytics
 
 <div align="center">
-    
+
+### 📊 GitHub Profile Summary
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapucuonur&theme=tokyonight)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=kapucuonur&theme=tokyo-night)
+### 📈 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapucuonur&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kapucuonur&theme=tokyonight)
+
+### 🧠 Top Languages
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapucuonur&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kapucuonur&theme=tokyonight)
+
+### 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kapucuonur&theme=tokyonight&hide_border=true)
+
+### 📊 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=kapucuonur&theme=tokyo-night&hide_border=true)
 
 </div>
 
