@@ -12,7 +12,7 @@
 💼 **Open to new opportunities** - Remote | Hybrid | Relocation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-kapucu/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapucuonur@hotmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kapucuonur)
 
 </div>
@@ -180,11 +180,13 @@ Real-time inventory tracking system
 
 <div align="center">
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-rn40awio4-kapucoonurs-projects.vercel.app/api?username=onurkapucu&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats
 
-## 🧠 Top Languages
-![Top Languages](https://github-readme-stats-rn40awio4-kapucoonurs-projects.vercel.app/api/top-langs/?username=onurkapucu&layout=compact&langs_count=8&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapucuonur&show_icons=true&theme=tokyonight)
+
+### 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapucuonur&layout=compact&langs_count=8&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kapucuonur&theme=tokyonight&hide_border=true)
 
@@ -251,6 +253,6 @@ Real-time inventory tracking system
 
 **⭐ Star my repos if you find them interesting!**
 
-Made with ❤️ in Helsinki, Finland 🇫🇮
+Made with ❤️ in Tampere, Finland 🇫🇮
 
 </div>
