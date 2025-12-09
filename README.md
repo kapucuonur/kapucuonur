@@ -11,6 +11,7 @@
 📍 Based in **Tampere, Finland** 🇫🇮  
 💼 **Open to new opportunities** - Remote | Hybrid | Relocation
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://onur-portfolio-website.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-kapucu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapucuonur@hotmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kapucuonur)
@@ -124,7 +125,7 @@ Real-time inventory tracking system
 
 **Tech:** React, Redux, Express, MongoDB
 
-[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://fullstack-stockapp-wfdx.onrender.com/)
+[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://fullstack-stockapp-outp.onrender.com/)
 [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/kapucuonur/FullStack_StockApp)
 
 </td>
@@ -146,7 +147,7 @@ Real-time inventory tracking system
 | **[DevChatbot-AI](https://github.com/kapucuonur/DevChatbot-AI)** | React • Flask • TensorFlow • Groq API • Redux • SQLite | [🔗 Live](https://devchatbot-ai.onrender.com/) |
 | **[ChatbotVoice-AI](https://github.com/kapucuonur/chatbotvoice-AI)** | Flask • JavaScript • PostgreSQL • Web Speech API | [🔗 Live](https://chatbotvoice-ai.onrender.com) |
 | **[OnurAI-Chat](https://github.com/kapucuonur/OnurAI-Chat)** | Flask • React • Groq API • SQLite | [🔗 Live](https://onurai-chat.onrender.com/) |
-| **[FullStack-StockApp](https://github.com/kapucuonur/FullStack_StockApp)** | React • Redux • Node.js • Express • MongoDB • ApexCharts | [🔗 Live](https://fullstack-stockapp-wfdx.onrender.com/) |
+| **[FullStack-StockApp](https://github.com/kapucuonur/FullStack_StockApp)** | React • Redux • Node.js • Express • MongoDB • ApexCharts | [🔗 Live](https://fullstack-stockapp-outp.onrender.com/) |
 | **[Blog-App-Python](https://github.com/kapucuonur/Blog_App_Python)** | Django • React • PostgreSQL • Cloudinary • Redux | [🔗 Live](https://blog-app-python-2s96.onrender.com) |
 | **[Stock-App](https://github.com/kapucuonur/stock-app)** | React • Redux • Material-UI • Formik • ApexCharts | [🔗 Live](https://stock-qg9tfa1ph-kapucuonurs-projects.vercel.app/) |
 | **[Spotify Clone](https://github.com/kapucuonur/Spotify-Clone)** | React • Redux • Firebase • Material-UI • Vite | [🔗 Live](https://spotify-clone-nwg43xbur-kapucuonurs-projects.vercel.app/) |
@@ -227,6 +228,7 @@ Real-time inventory tracking system
 - 🌱 Learning: **Advanced ML, Cloud Architecture, Web3**
 - 👯 Looking to collaborate on: **Open-source projects, Startups**
 - 💼 Open to: **Full-time opportunities** (Remote / Helsinki / EU)
+- 🌐 Portfolio: **[onur-portfolio-website.netlify.app](https://onur-portfolio-website.netlify.app/)**
 - 📫 Reach me: **kapucuonur@hotmail.com**
 
 ---
@@ -245,6 +247,7 @@ Real-time inventory tracking system
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge)](https://onur-portfolio-website.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-kapucu/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapucuonur)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kapucuonur)
