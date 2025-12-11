@@ -150,6 +150,7 @@ Real-time inventory tracking system
 | **[FullStack-StockApp](https://github.com/kapucuonur/FullStack_StockApp)** | React • Redux • Node.js • Express • MongoDB • ApexCharts | [🔗 Live](https://fullstack-stockapp-wfdx.onrender.com/) |
 | **[Blog-App-Python](https://github.com/kapucuonur/Blog_App_Python)** | Django • React • PostgreSQL • Cloudinary • Redux | [🔗 Live](https://blog-app-python-2s96.onrender.com) |
 | **[Stock-App](https://github.com/kapucuonur/stock-app)** | React • Redux • Material-UI • Formik • ApexCharts | [🔗 Live](https://stock-qg9tfa1ph-kapucuonurs-projects.vercel.app/) |
+| **[ai-content-generator](https://github.com/kapucuonur/ai-content-gerator)** | React • Vite • Material-UI • Tailwind • Google Gemini API • ESLint • PostCSS • Vercel/Netlify | [🔗 Live](https://contentgeneratorappai.netlify.app/) |
 | **[Spotify Clone](https://github.com/kapucuonur/Spotify-Clone)** | React • Redux • Firebase • Material-UI • Vite | [🔗 Live](https://spotify-clone-nwg43xbur-kapucuonurs-projects.vercel.app/) |
 | **[The News](https://github.com/kapucuonur/redux-toolkit-thenews)** | React • Redux Toolkit • Material-UI • Axios | [🔗 Live](https://redux-toolkit-thenews-1.onrender.com) |
 | **[React-Python-Tutorial](https://github.com/kapucuonur/React-Python-Tutorial)** | React • Flask • SQLAlchemy • Chakra UI | [🔗 Live](https://react-python-tutorial-ezkn.onrender.com/) |
