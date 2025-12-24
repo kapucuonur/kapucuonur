@@ -9,7 +9,7 @@
 
 
 
-# Hi there, I'm Onur Kapucu 👋
+
 
 ### Full Stack Developer | AI Enthusiast | Problem Solver
 
