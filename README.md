@@ -1,6 +1,13 @@
 <div align="center">
 
-![Developer Banner](https://github.com/user-attachments/assets/0ce7f6f7-2c44-4c78-a9fb-64cd5e641689)
+
+
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Onur%20Kapucu%20👋&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descSize=20&descAlignY=60)
+
+
+
+
 
 # Hi there, I'm Onur Kapucu 👋
 
@@ -257,6 +264,15 @@ Real-time inventory tracking system
 
 ---
 
+## 💖 Support My Work
+
+<div align="center">
+
+If you find my projects helpful, consider supporting me:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/onurbenn9)
+
+---
 <div align="center">
 
 ### "Code is like humor. When you have to explain it, it's bad." – Cory House
