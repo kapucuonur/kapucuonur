@@ -1,152 +1,53 @@
 <div align="center">
-
-![Developer Banner](https://github.com/user-attachments/assets/0ce7f6f7-2c44-4c78-a9fb-64cd5e641689)
-
-# Hi there, I'm Onur Kapucu 👋
-
-### Full Stack Developer | AI Enthusiast | Problem Solver
-
-🚀 Building scalable web applications with **React**, **Node.js**, and **Python**  
-🤖 Specializing in **AI-powered solutions** and **modern web architectures**  
-📍 Based in **Tampere, Finland** 🇫🇮  
-💼 **Open to new opportunities** - Remote | Hybrid | Relocation
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://onur-portfolio-website.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-kapucu/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapucuonur@hotmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kapucuonur)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Onur%20Kapucu%20👋&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descSize=20&descAlignY=60)
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🌟 Featured Project
 
-```javascript
-const onur = {
-    location: "Helsinki, Finland",
-    role: "Full Stack Developer",
-    experience: "3+ years",
-    languages: ["JavaScript", "Python", "TypeScript", "SQL"],
-    currentFocus: ["AI Integration", "Cloud Architecture", "Web3"],
-    learning: ["Computer Science", "Mobile Development", "Machine Learning"],
-    availableFor: "Full-time opportunities & interesting projects"
-};
-```
-
-I'm passionate about creating **impactful digital solutions** that solve real-world problems. From **AI-powered applications** to **complex e-commerce systems**, I enjoy the entire journey from concept to deployment.
-
-**What drives me:** Clean code, user experience, and continuous learning.
-
----
-
-## 🛠️ Tech Arsenal
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### AI & Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🌟 Featured Projects
+### 🇫🇮 LearnFinnish - AI-Powered Finnish Language Learning Platform
 
 <div align="center">
-
-### 🚀 Top 3 Projects
-
+  [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-www.learn--finnish.fi-006064?style=for-the-badge)](https://www.learn-finnish.fi)
+  [![GitHub](https://img.shields.io/badge/GitHub-learnfinnish-181717?style=for-the-badge&logo=github)](https://github.com/kapucuonur/learnfinnish)
+  [![Buy Me a Coffee](https://img.shields.io/badge/☕_Support-Buy_Me_a_Coffee-FFDD00?style=for-the-badge)](https://buymeacoffee.com/onurbenn9)
 </div>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+A modern, **AI-powered web application** designed to help people learn Finnish through interactive stories and context-aware translations. Built from my own experience learning Finnish in Helsinki! 🇫🇮
 
-### 🤖 [DigiLibrary](https://digilibray.netlify.app/)
-AI-powered digital library with smart recommendations
+**✨ Key Features:**
+- 📚 **AI-Generated Stories** - Personalized Finnish stories using Google Gemini API
+- 🔍 **Context-Aware Translation** - Click any word for intelligent translations
+- 📖 **Word Notebook** - Save and manage learned vocabulary
+- 🎴 **Flashcard Practice** - Study with interactive flashcards
+- 💬 **AI Chatbot** - Get instant help while learning
+- 🌙 **Dark Mode** - Comfortable learning experience
+- 🌐 **Bilingual** - Turkish and English interface
+- 📱 **PWA** - Install and use offline
 
-**Highlights:**
-- 🧠 Google Gemini API integration
-- 💳 Stripe payment system
-- 📚 10,000+ books database
-- ⚡ 95+ Lighthouse score
+**🛠️ Tech Stack:**
+```
+Frontend: Vanilla JavaScript (ES6) • CSS3 • Firebase Auth • PWA
+Backend: Vercel Serverless Functions • Node.js
+APIs: Google Gemini API • Stripe • Google AdSense
+Database: Firebase Firestore
+```
 
-**Tech:** React, Node.js, MongoDB, AI
-
-[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://digilibray.netlify.app/)
-[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/kapucuonur/digilibrary-app)
-
-</td>
-<td width="33%" valign="top">
-
-### 💬 [DevChatbot AI](https://devchatbot-ai.onrender.com/)
-ML-powered chatbot with voice recognition
-
-**Highlights:**
-- 🎤 Speech-to-text capability
-- 🧠 95% intent accuracy
-- 📊 TensorFlow model
-- ⚡ <500ms response time
-
-**Tech:** React, Flask, TensorFlow, Groq
-
-[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://devchatbot-ai.onrender.com/)
-[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/kapucuonur/DevChatbot-AI)
-
-</td>
-<td width="33%" valign="top">
-
-### 📦 [Stock Management](https://fullstack-stockapp-wfdx.onrender.com/)
-Real-time inventory tracking system
-
-**Highlights:**
-- 📊 Interactive dashboards
-- 📈 ApexCharts analytics
-- 👥 Multi-user support
-- 🔄 Real-time updates
-
-**Tech:** React, Redux, Express, MongoDB
-
-[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://fullstack-stockapp-wfdx.onrender.com/)
-[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/kapucuonur/FullStack_StockApp)
-
-</td>
-</tr>
-</table>
+**🎯 Why I Built This:**
+Created from my own journey learning Finnish, this free tool helps language learners practice through engaging, AI-generated content focused on practical vocabulary and contextual understanding.
 
 ---
 
-## 📂 All Projects Portfolio
+## 🚀 All Projects
 
-<details>
-<summary><b>🔽 Click to see all 30+ projects with live demos</b></summary>
-
-<br>
+<details open>
+<summary><b>📱 Web Applications (Click to expand)</b></summary>
 
 | Project | Tech Stack | Live Demo |
 |---------|-----------|-----------|
-| **[Digilibrary](https://github.com/kapucuonur/digilibrary-app)** | React • Node.js • MongoDB • Google AI • Stripe • Netlify | [🔗 Live](https://digilibray.netlify.app/) |
-| **[DevChatbot-AI](https://github.com/kapucuonur/DevChatbot-AI)** | React • Flask • TensorFlow • Groq API • Redux • SQLite | [🔗 Live](https://devchatbot-ai.onrender.com/) |
-| **[ChatbotVoice-AI](https://github.com/kapucuonur/chatbotvoice-AI)** | Flask • JavaScript • PostgreSQL • Web Speech API | [🔗 Live](https://chatbotvoice-ai.onrender.com) |
-| **[OnurAI-Chat](https://github.com/kapucuonur/OnurAI-Chat)** | Flask • React • Groq API • SQLite | [🔗 Live](https://onurai-chat.onrender.com/) |
+| **[LearnFinnish](https://github.com/kapucuonur/learnfinnish)** ⭐ | JavaScript • Firebase • Gemini API • Stripe • Vercel | [🔗 Live](https://www.learn-finnish.fi) |
+| **[Hotel-Booking-App](https://github.com/kapucuonur/Hotel-Booking-App)** | React • Redux • Node.js • Express • MongoDB • Stripe • Cloudinary | [🔗 Live](https://hotel-booking-app-frontend-pied.vercel.app/) |
 | **[FullStack-StockApp](https://github.com/kapucuonur/FullStack_StockApp)** | React • Redux • Node.js • Express • MongoDB • ApexCharts | [🔗 Live](https://fullstack-stockapp-wfdx.onrender.com/) |
 | **[Blog-App-Python](https://github.com/kapucuonur/Blog_App_Python)** | Django • React • PostgreSQL • Cloudinary • Redux | [🔗 Live](https://blog-app-python-2s96.onrender.com) |
 | **[Stock-App](https://github.com/kapucuonur/stock-app)** | React • Redux • Material-UI • Formik • ApexCharts | [🔗 Live](https://stock-qg9tfa1ph-kapucuonurs-projects.vercel.app/) |
@@ -243,28 +144,34 @@ Real-time inventory tracking system
 ## 📫 Let's Connect!
 
 <div align="center">
+  [![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge)](https://onur-portfolio-website.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-kapucu/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapucuonur)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kapucuonur)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapucuonur@hotmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kapucu.onur/)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge)](https://onur-portfolio-website.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-kapucu/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapucuonur)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kapucuonur)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapucuonur@hotmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kapucu.onur/)
+  **💬 I usually respond within 24 hours**
+</div>
 
-**💬 I usually respond within 24 hours**
+---
 
+## 💖 Support My Work
+
+<div align="center">
+  If you find my projects helpful, consider supporting me:
+
+  [![Buy Me a Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/onurbenn9)
+
+  **⭐ Star my repos if you find them interesting!**
 </div>
 
 ---
 
 <div align="center">
+  ### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-### "Code is like humor. When you have to explain it, it's bad." – Cory House
+  ![Profile Views](https://komarev.com/ghpvc/?username=kapucuonur&color=blueviolet&style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kapucuonur&color=blueviolet&style=for-the-badge)
-
-**⭐ Star my repos if you find them interesting!**
-
-Made with ❤️ in Helsinki, Finland 🇫🇮
-
+  Made with ❤️ in Helsinki, Finland 🇫🇮
 </div>
