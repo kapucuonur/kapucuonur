@@ -6,10 +6,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Onur%20Kapucu%20👋&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descSize=20&descAlignY=60)
 
 
-# Hi there, I'm Onur Kapucu <img src="https://media.giphy.com/media/hvRJCLFzcyK5f4hMXG/giphy.gif" width="35">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Onur%20Kapucu%20👋&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descSize=20&descAlignY=60)
-
 
 
 
