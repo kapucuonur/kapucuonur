@@ -1,5 +1,7 @@
 <div align="center">
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Onur%20Kapucu%20👋&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descSize=20&descAlignY=60)
+
 </div>
 
 ---
@@ -9,9 +11,11 @@
 ### 🇫🇮 LearnFinnish - AI-Powered Finnish Language Learning Platform
 
 <div align="center">
-  [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-www.learn--finnish.fi-006064?style=for-the-badge)](https://www.learn-finnish.fi)
-  [![GitHub](https://img.shields.io/badge/GitHub-learnfinnish-181717?style=for-the-badge&logo=github)](https://github.com/kapucuonur/learnfinnish)
-  [![Buy Me a Coffee](https://img.shields.io/badge/☕_Support-Buy_Me_a_Coffee-FFDD00?style=for-the-badge)](https://buymeacoffee.com/onurbenn9)
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-www.learn--finnish.fi-006064?style=for-the-badge)](https://www.learn-finnish.fi)
+[![GitHub](https://img.shields.io/badge/GitHub-learnfinnish-181717?style=for-the-badge&logo=github)](https://github.com/kapucuonur/learnfinnish)
+[![Buy Me a Coffee](https://img.shields.io/badge/☕_Support-Buy_Me_a_Coffee-FFDD00?style=for-the-badge)](https://buymeacoffee.com/onurbenn9)
+
 </div>
 
 A modern, **AI-powered web application** designed to help people learn Finnish through interactive stories and context-aware translations. Built from my own experience learning Finnish in Helsinki! 🇫🇮
@@ -144,14 +148,16 @@ Created from my own journey learning Finnish, this free tool helps language lear
 ## 📫 Let's Connect!
 
 <div align="center">
-  [![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge)](https://onur-portfolio-website.netlify.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-kapucu/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapucuonur)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kapucuonur)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapucuonur@hotmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kapucu.onur/)
 
-  **💬 I usually respond within 24 hours**
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge)](https://onur-portfolio-website.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-kapucu/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapucuonur)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kapucuonur)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapucuonur@hotmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kapucu.onur/)
+
+**💬 I usually respond within 24 hours**
+
 </div>
 
 ---
@@ -159,19 +165,23 @@ Created from my own journey learning Finnish, this free tool helps language lear
 ## 💖 Support My Work
 
 <div align="center">
-  If you find my projects helpful, consider supporting me:
 
-  [![Buy Me a Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/onurbenn9)
+If you find my projects helpful, consider supporting me:
 
-  **⭐ Star my repos if you find them interesting!**
+[![Buy Me a Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/onurbenn9)
+
+**⭐ Star my repos if you find them interesting!**
+
 </div>
 
 ---
 
 <div align="center">
-  ### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=kapucuonur&color=blueviolet&style=for-the-badge)
+### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-  Made with ❤️ in Helsinki, Finland 🇫🇮
+![Profile Views](https://komarev.com/ghpvc/?username=kapucuonur&color=blueviolet&style=for-the-badge)
+
+Made with ❤️ in Helsinki, Finland 🇫🇮
+
 </div>
