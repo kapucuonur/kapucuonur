@@ -152,7 +152,7 @@ Real-time inventory tracking system
 | **[DevChatbot-AI](https://github.com/kapucuonur/DevChatbot-AI)** | React • Flask • TensorFlow • Groq API • Redux • SQLite | [🔗 Live](https://devchatbot-ai.onrender.com/) |
 | **[ChatbotVoice-AI](https://github.com/kapucuonur/chatbotvoice-AI)** | Flask • JavaScript • PostgreSQL • Web Speech API | [🔗 Live](https://chatbotvoice-ai.onrender.com) |
 | **[OnurAI-Chat](https://github.com/kapucuonur/OnurAI-Chat)** | Flask • React • Groq API • SQLite | [🔗 Live](https://onurai-chat.onrender.com/) |
-| **[FullStack-StockApp](https://github.com/kapucuonur/FullStack_StockApp)** | React • Redux • Node.js • Express • MongoDB • ApexCharts | [🔗 Live](https://fullstack-stockapp-wfdx.onrender.com/) |
+| **[FullStack-StockApp](https://github.com/kapucuonur/FullStack_StockApp)** | React • Redux • Node.js • Express • MongoDB • ApexCharts | [🔗 Live](https://fullstack-stockapp-outp.onrender.com/) |
 | **[Blog-App-Python](https://github.com/kapucuonur/Blog_App_Python)** | Django • React • PostgreSQL • Cloudinary • Redux | [🔗 Live](https://blog-app-python-2s96.onrender.com) |
 | **[Stock-App](https://github.com/kapucuonur/stock-app)** | React • Redux • Material-UI • Formik • ApexCharts | [🔗 Live](https://stock-qg9tfa1ph-kapucuonurs-projects.vercel.app/) |
 | **[ai-content-generator](https://github.com/kapucuonur/ai-content-gerator)** | React • Vite • Material-UI • Tailwind • Google Gemini API • ESLint • PostCSS • Vercel/Netlify | [🔗 Live](https://contentgeneratorappai.netlify.app/) |
