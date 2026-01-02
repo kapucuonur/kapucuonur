@@ -130,7 +130,7 @@ Real-time inventory tracking system
 
 **Tech:** React, Redux, Express, MongoDB
 
-[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://fullstack-stockapp-wfdx.onrender.com/)
+[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://fullstack-stockapp-outp.onrender.com/)
 [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/kapucuonur/FullStack_StockApp)
 
 </td>
