@@ -2,18 +2,12 @@
 
 
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Onur%20Kapucu%20👋&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Indie%20Developer%20%7C%20Product%20Creator&descSize=20&descAlignY=60)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Onur%20Kapucu%20👋&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descSize=20&descAlignY=60)
+### Software Engineer | Indie Developer | Product Creator
 
-
-
-
-
-### Full Stack Developer | AI Enthusiast | Problem Solver
-
-🚀 Building scalable web applications with **React**, **Node.js**, and **Python**  
-🤖 Specializing in **AI-powered solutions** and **modern web architectures**  
-📍 Based in **Tampere, Finland** 🇫🇮  
+🚀 Building cross-platform solutions for **Web, Mobile, & Native Systems** (macOS/Garmin)  
+🛠️ Specialized in **React**, **Flutter**, **Swift**, and **System Utilities** 📍 Based in **Tampere, Finland** 🇫🇮  
 💼 **Open to new opportunities** - Remote | Hybrid | Relocation
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://onur-portfolio-website.netlify.app/)
