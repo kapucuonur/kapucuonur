@@ -47,7 +47,9 @@ I'm passionate about creating **impactful digital solutions** that solve real-wo
 
 ## 🛠️ Tech Arsenal
 
-### Native & Wearables (New!)
+### Mobile, Native & Wearables
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Garmin Connect IQ](https://img.shields.io/badge/Monkey_C_(Garmin)-000000?style=for-the-badge&logo=garmin&logoColor=white)
@@ -78,6 +80,7 @@ I'm passionate about creating **impactful digital solutions** that solve real-wo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
+
 ---
 
 ## 🌟 Featured Projects
