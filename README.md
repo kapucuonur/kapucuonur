@@ -30,12 +30,12 @@
 ```javascript
 const onur = {
     location: "Tampere, Finland",
-    role: "Full Stack Developer",
+    role: "Software Engineer",
     experience: "3+ years",
-    languages: ["JavaScript", "Python", "TypeScript", "SQL"],
-    currentFocus: ["AI Integration", "Cloud Architecture", "Web3"],
-    learning: ["Computer Science", "Mobile Development", "Machine Learning"],
-    availableFor: "Full-time opportunities & interesting projects"
+    languages: ["TypeScript", "Swift", "Dart", "Python", "Monkey C"],
+    coreStack: ["React/Next.js", "Flutter", "Native macOS", "Garmin CIQ"],
+    currentFocus: ["System Utilities", "Wearable Tech", "Cross-Platform Mobile"],
+    passion: "Building products that solve real problems."
 };
 ```
 
