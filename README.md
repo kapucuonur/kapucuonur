@@ -77,69 +77,70 @@ I'm passionate about creating **impactful digital solutions** that solve real-wo
 
 ---
 
-## 🌟 Featured Projects
-
+🌟 Featured Projects
 <div align="center">
 
-### 🚀 Top 3 Projects
-
+🚀 Top 3 Products (Live)
 </div>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<table> <tr> <td width="33%" valign="top">
 
-### 🤖 [DigiLibrary](https://digilibray.netlify.app/)
-AI-powered digital library with smart recommendations
+🖥️ WatchToMac
+Native macOS Utility
 
-**Highlights:**
-- 🧠 Google Gemini API integration
-- 💳 Stripe payment system
-- 📚 10,000+ books database
-- ⚡ 95+ Lighthouse score
+Replaces "Android File Transfer" for Mac users. Mounts Garmin watches as local drives on Apple Silicon.
 
-**Tech:** React, Node.js, MongoDB, AI
+Highlights:
 
-[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://digilibray.netlify.app/)
-[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/kapucuonur/digilibrary-app)
+🍏 Native Swift App
 
-</td>
-<td width="33%" valign="top">
+💾 No more connectivity issues
 
-### 💬 [DevChatbot AI](https://devchatbot-ai.onrender.com/)
-ML-powered chatbot with voice recognition
+⚡ M1/M2/M3 Optimized
 
-**Highlights:**
-- 🎤 Speech-to-text capability
-- 🧠 95% intent accuracy
-- 📊 TensorFlow model
-- ⚡ <500ms response time
+🛠️ Drag & Drop Files
 
-**Tech:** React, Flask, TensorFlow, Groq
+Tech: Swift, macOS, System
 
-[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://devchatbot-ai.onrender.com/)
-[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/kapucuonur/DevChatbot-AI)
+</td> <td width="33%" valign="top">
 
-</td>
-<td width="33%" valign="top">
+⌚ Ice Bath Tracker
+Garmin Wearable App
 
-### 📦 [Stock Management](https://fullstack-stockapp-wfdx.onrender.com/)
-Real-time inventory tracking system
+Specialized app for tracking cold plunges. Monitors physiological response in real-time.
 
-**Highlights:**
-- 📊 Interactive dashboards
-- 📈 ApexCharts analytics
-- 👥 Multi-user support
-- 🔄 Real-time updates
+Highlights:
 
-**Tech:** React, Redux, Express, MongoDB
+❄️ Skin Temp Monitoring
 
-[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://fullstack-stockapp-outp.onrender.com/)
-[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/kapucuonur/FullStack_StockApp)
+💓 Heart Rate Adaptation
 
-</td>
-</tr>
-</table>
+📍 Garmin Connect Sync
+
+⏱️ Custom Session Timer
+
+Tech: Monkey C, Garmin CIQ
+
+</td> <td width="33%" valign="top">
+
+🇫🇮 Learn Finnish
+Interactive Web Platform
+
+A modern platform helping expats learn Finnish efficiently with AI-powered assistance.
+
+Highlights:
+
+🧠 AI-Powered Learning
+
+🎓 Interactive Lessons
+
+📱 Responsive Design
+
+🚀 Modern Web Stack
+
+Tech: Next.js, React, AI
+
+</td> </tr> </table>
 
 ---
 
