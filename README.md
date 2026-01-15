@@ -1,5 +1,6 @@
-
 <div align="center">
+
+
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Onur%20Kapucu%20👋&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Indie%20Developer%20%7C%20Product%20Creator&descSize=20&descAlignY=60)
 
@@ -30,26 +31,49 @@ const onur = {
     currentFocus: ["System Utilities", "Wearable Tech", "Cross-Platform Mobile"],
     passion: "Building products that solve real problems."
 };
-
 ```
 
-I'm a passionate engineer who bridges the gap between **Web, Native, and Hardware**. I don't just build websites; I create **system utilities for macOS**, develop **wearable apps for Garmin**, and build **cross-platform mobile solutions**.
+I'm passionate about creating **impactful digital solutions** that solve real-world problems. From **AI-powered applications** to **complex e-commerce systems**, I enjoy the entire journey from concept to deployment.
 
-Whether it's optimizing a React backend or writing low-level code for a smartwatch, I enjoy the entire journey from **concept to deployment**.
+**What drives me:** Clean code, user experience, and continuous learning.
 
 ---
 
 ## 🛠️ Tech Arsenal
 
 ### Mobile, Native & Wearables
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Garmin Connect IQ](https://img.shields.io/badge/Monkey_C_(Garmin)-000000?style=for-the-badge&logo=garmin&logoColor=white)
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### AI, Tools & Creative
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
 
 ---
 
@@ -57,7 +81,7 @@ Whether it's optimizing a React backend or writing low-level code for a smartwat
 
 <div align="center">
 
-### 🚀 Top 3 Products (Live)
+### 🚀 Top 3 Projects
 
 </div>
 
@@ -65,56 +89,53 @@ Whether it's optimizing a React backend or writing low-level code for a smartwat
 <tr>
 <td width="33%" valign="top">
 
-### 🖥️ [WatchToMac](https://2236586809450.gumroad.com/l/kdrbne)
-
-**Native macOS Utility**
-
-Replaces "Android File Transfer" for Mac users. Mounts Garmin watches as local drives on Apple Silicon.
+### 🤖 [DigiLibrary](https://digilibray.netlify.app/)
+AI-powered digital library with smart recommendations
 
 **Highlights:**
+- 🧠 Google Gemini API integration
+- 💳 Stripe payment system
+- 📚 10,000+ books database
+- ⚡ 95+ Lighthouse score
 
-* 🍏 Native Swift App
-* 💾 No more connectivity issues
-* ⚡ M1/M2/M3 Optimized
-* 🛠️ Drag & Drop Files
+**Tech:** React, Node.js, MongoDB, AI
 
-**Tech:** Swift, macOS, System
+[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://digilibray.netlify.app/)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/kapucuonur/digilibrary-app)
 
 </td>
 <td width="33%" valign="top">
 
-### ⌚ [Ice Bath Tracker](https://apps.garmin.com/apps/9d9633a0-51a9-48c3-8fad-44de0e4277fc)
-
-**Garmin Wearable App**
-
-Specialized app for tracking cold plunges. Monitors physiological response in real-time.
+### 💬 [DevChatbot AI](https://devchatbot-ai.onrender.com/)
+ML-powered chatbot with voice recognition
 
 **Highlights:**
+- 🎤 Speech-to-text capability
+- 🧠 95% intent accuracy
+- 📊 TensorFlow model
+- ⚡ <500ms response time
 
-* ❄️ Skin Temp Monitoring
-* 💓 Heart Rate Adaptation
-* 📍 Garmin Connect Sync
-* ⏱️ Custom Session Timer
+**Tech:** React, Flask, TensorFlow, Groq
 
-**Tech:** Monkey C, Garmin CIQ
+[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://devchatbot-ai.onrender.com/)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/kapucuonur/DevChatbot-AI)
 
 </td>
 <td width="33%" valign="top">
 
-### 🇫🇮 [Learn Finnish](https://www.google.com/search?q=https://learn-finnish.fi)
-
-**Interactive Web Platform**
-
-A modern platform helping expats learn Finnish efficiently with AI-powered assistance.
+### 📦 [Stock Management](https://fullstack-stockapp-wfdx.onrender.com/)
+Real-time inventory tracking system
 
 **Highlights:**
+- 📊 Interactive dashboards
+- 📈 ApexCharts analytics
+- 👥 Multi-user support
+- 🔄 Real-time updates
 
-* 🧠 AI-Powered Learning
-* 🎓 Interactive Lessons
-* 📱 Responsive Design
-* 🚀 Modern Web Stack
+**Tech:** React, Redux, Express, MongoDB
 
-**Tech:** Next.js, React, AI
+[![View Project](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://fullstack-stockapp-outp.onrender.com/)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/kapucuonur/FullStack_StockApp)
 
 </td>
 </tr>
@@ -127,8 +148,10 @@ A modern platform helping expats learn Finnish efficiently with AI-powered assis
 <details>
 <summary><b>🔽 Click to see all 30+ projects with live demos</b></summary>
 
+<br>
+
 | Project | Tech Stack | Live Demo |
-| --- | --- | --- |
+|---------|-----------|-----------|
 | **[Digilibrary](https://github.com/kapucuonur/digilibrary-app)** | React • Node.js • MongoDB • Google AI • Stripe • Netlify | [🔗 Live](https://digilibray.netlify.app/) |
 | **[DevChatbot-AI](https://github.com/kapucuonur/DevChatbot-AI)** | React • Flask • TensorFlow • Groq API • Redux • SQLite | [🔗 Live](https://devchatbot-ai.onrender.com/) |
 | **[ChatbotVoice-AI](https://github.com/kapucuonur/chatbotvoice-AI)** | Flask • JavaScript • PostgreSQL • Web Speech API | [🔗 Live](https://chatbotvoice-ai.onrender.com) |
@@ -139,6 +162,10 @@ A modern platform helping expats learn Finnish efficiently with AI-powered assis
 | **[ai-content-generator](https://github.com/kapucuonur/ai-content-gerator)** | React • Vite • Material-UI • Tailwind • Google Gemini API • ESLint • PostCSS • Vercel/Netlify | [🔗 Live](https://contentgeneratorappai.netlify.app/) |
 | **[Spotify Clone](https://github.com/kapucuonur/Spotify-Clone)** | React • Redux • Firebase • Material-UI • Vite | [🔗 Live](https://spotify-clone-nwg43xbur-kapucuonurs-projects.vercel.app/) |
 | **[The News](https://github.com/kapucuonur/redux-toolkit-thenews)** | React • Redux Toolkit • Material-UI • Axios | [🔗 Live](https://redux-toolkit-thenews-1.onrender.com) |
+| **[React-Python-Tutorial](https://github.com/kapucuonur/React-Python-Tutorial)** | React • Flask • SQLAlchemy • Chakra UI | [🔗 Live](https://react-python-tutorial-ezkn.onrender.com/) |
+| **[Your-Shop](https://github.com/kapucuonur/Your-Shop)** | React • Redux • Material-UI • React Router | [🔗 Live](https://your-shop-7by1.onrender.com/) |
+| **[Food-Recipes](https://github.com/kapucuonur/Food-Recipes)** | React • Firebase • Context API • Tailwind CSS | [🔗 Live](https://food-recipes-5hmm.onrender.com/) |
+| **[Shopping-Store](https://github.com/kapucuonur/Shopping-Store)** | React • Tailwind • SweetAlert2 • Context API | [🔗 Live](https://storied-pasca-024fe8.netlify.app/) |
 | **[React-Router](https://github.com/kapucuonur/React-Router)** | React • SASS • React Router • React Icons | [🔗 Live](https://bright-dodol-01b322.netlify.app/) |
 | **[DevLink-Router](https://github.com/kapucuonur/DevLink-Router)** | React • Bootstrap • React Router • SweetAlert2 | [🔗 Live](https://devlink-router.onrender.com/) |
 | **[Google Clone](https://github.com/kapucuonur/google-clone)** | Next.js • React • Tailwind • Google API | [🔗 Live](https://google-clone-one-sigma.vercel.app/) |
@@ -163,21 +190,25 @@ A modern platform helping expats learn Finnish efficiently with AI-powered assis
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapucuonur&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapucuonur&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapucuonur&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kapucuonur&theme=tokyonight" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapucuonur&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kapucuonur&theme=tokyonight" alt="Productive Time" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapucuonur&theme=tokyonight" alt="Repos Per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kapucuonur&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapucuonur&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kapucuonur&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kapucuonur&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapucuonur&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapucuonur&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -185,41 +216,49 @@ A modern platform helping expats learn Finnish efficiently with AI-powered assis
 ## 💼 What I Offer
 
 ```
-✅ Cross-Platform Mobile Development (Flutter/React Native)
-✅ Native macOS System Utilities (Swift)
-✅ Wearable App Development (Garmin Connect IQ)
-✅ Full Stack Web Development (MERN/Next.js)
-✅ AI/ML Integration (Gemini, TensorFlow)
-✅ Cloud Deployment & CI/CD
-
+✅ Full Stack Web Development
+✅ AI/ML Integration (OpenAI, Google Gemini, TensorFlow)
+✅ E-commerce Solutions (Payment Integration)
+✅ RESTful API Development
+✅ Database Design & Optimization
+✅ Cloud Deployment (AWS, Netlify, Vercel)
+✅ Responsive UI/UX Design
+✅ Performance Optimization
 ```
 
 ---
 
 ## 🎯 Currently
 
-* 🔭 Launching: **WatchToMac (macOS Utility)** & **Ice Bath Tracker (Garmin)**
-* 🌱 Learning: **Advanced System Programming & Hardware Integration**
-* 👯 Looking to collaborate on: **Open-source System Tools**
-* 💼 Open to: **Full-time opportunities** (Remote / Helsinki / EU)
-* 🌐 Portfolio: **[onur-portfolio-website.netlify.app](https://onur-portfolio-website.netlify.app/)**
-* 📫 Reach me: **kapucuonur@hotmail.com**
+- 🔭 Working on: **AI-powered SaaS applications**
+- 🌱 Learning: **Advanced ML, Cloud Architecture, Web3**
+- 👯 Looking to collaborate on: **Open-source projects, Startups**
+- 💼 Open to: **Full-time opportunities** (Remote / Helsinki / EU)
+- 🌐 Portfolio: **[onur-portfolio-website.netlify.app](https://onur-portfolio-website.netlify.app/)**
+- 📫 Reach me: **kapucuonur@hotmail.com**
 
 ---
 
 ## 📈 2025 Goals
 
-* [ ] Grow WatchToMac user base to 1000+ users
-* [ ] Publish 3 new Garmin Apps
-* [ ] Contribute to major Open Source projects
-* [ ] Master Swift & Metal for macOS
-* [ ] Create tech content on YouTube
+- [ ] Contribute to 5 major open-source projects
+- [ ] Launch a SaaS product
+- [ ] Master TypeScript & advanced patterns
+- [ ] Obtain AWS certification
+- [ ] Write 24 technical blog posts
 
 ---
 
 ## 📫 Let's Connect!
 
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge)](https://onur-portfolio-website.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-kapucu/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapucuonur)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kapucuonur)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapucuonur@hotmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kapucu.onur/)
 
 **💬 I usually respond within 24 hours**
 
@@ -233,16 +272,17 @@ A modern platform helping expats learn Finnish efficiently with AI-powered assis
 
 If you find my projects helpful, consider supporting me:
 
----
+[![Buy Me a Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/onurbenn9)
 
+---
 <div align="center">
 
 ### "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=kapucuonur&color=blueviolet&style=for-the-badge)
 
 **⭐ Star my repos if you find them interesting!**
 
 Made with ❤️ in Tampere, Finland 🇫🇮
 
 </div>
-
-```
