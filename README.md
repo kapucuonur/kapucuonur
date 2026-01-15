@@ -57,7 +57,7 @@ Whether it's optimizing a React backend or writing low-level code for a smartwat
 
 <div align="center">
 
-### 🚀 Top 3 Projects (Native, Wearable & Web)
+### 🚀 Top 3 Products (Live)
 
 </div>
 
@@ -65,7 +65,7 @@ Whether it's optimizing a React backend or writing low-level code for a smartwat
 <tr>
 <td width="33%" valign="top">
 
-### 🖥️ [WatchToMac](https://www.google.com/search?q=https://2236586809450.gumroad.com/l/kdrbne)
+### 🖥️ [WatchToMac](https://2236586809450.gumroad.com/l/kdrbne)
 
 **Native macOS Utility**
 
@@ -74,11 +74,11 @@ Replaces "Android File Transfer" for Mac users. Mounts Garmin watches as local d
 **Highlights:**
 
 * 🍏 Native Swift App
-* 💾 File System Mounting
-* ⚡ Optimized for M1/M2/M3
-* 🛠️ Solves Real Hardware Issue
+* 💾 No more connectivity issues
+* ⚡ M1/M2/M3 Optimized
+* 🛠️ Drag & Drop Files
 
-**Tech:** Swift, macOS, System Programming
+**Tech:** Swift, macOS, System
 
 </td>
 <td width="33%" valign="top">
@@ -96,17 +96,16 @@ Specialized app for tracking cold plunges. Monitors physiological response in re
 * 📍 Garmin Connect Sync
 * ⏱️ Custom Session Timer
 
-**Tech:** Monkey C, Garmin CIQ, Wearable
+**Tech:** Monkey C, Garmin CIQ
 
 </td>
 <td width="33%" valign="top">
 
-### 🇫🇮 [Learn Finnish](https://digilibray.netlify.app/)
+### 🇫🇮 [Learn Finnish](https://www.google.com/search?q=https://learn-finnish.fi)
 
 **Interactive Web Platform**
 
-*Note: Link to be updated*
-An interactive platform helping expats learn Finnish efficiently with AI assistance.
+A modern platform helping expats learn Finnish efficiently with AI-powered assistance.
 
 **Highlights:**
 
@@ -115,7 +114,7 @@ An interactive platform helping expats learn Finnish efficiently with AI assista
 * 📱 Responsive Design
 * 🚀 Modern Web Stack
 
-**Tech:** Next.js, React, Tailwind, AI
+**Tech:** Next.js, React, AI
 
 </td>
 </tr>
@@ -141,9 +140,21 @@ An interactive platform helping expats learn Finnish efficiently with AI assista
 | **[Spotify Clone](https://github.com/kapucuonur/Spotify-Clone)** | React • Redux • Firebase • Material-UI • Vite | [🔗 Live](https://spotify-clone-nwg43xbur-kapucuonurs-projects.vercel.app/) |
 | **[The News](https://github.com/kapucuonur/redux-toolkit-thenews)** | React • Redux Toolkit • Material-UI • Axios | [🔗 Live](https://redux-toolkit-thenews-1.onrender.com) |
 | **[React-Router](https://github.com/kapucuonur/React-Router)** | React • SASS • React Router • React Icons | [🔗 Live](https://bright-dodol-01b322.netlify.app/) |
+| **[DevLink-Router](https://github.com/kapucuonur/DevLink-Router)** | React • Bootstrap • React Router • SweetAlert2 | [🔗 Live](https://devlink-router.onrender.com/) |
 | **[Google Clone](https://github.com/kapucuonur/google-clone)** | Next.js • React • Tailwind • Google API | [🔗 Live](https://google-clone-one-sigma.vercel.app/) |
+| **[Onur Store](https://github.com/kapucuonur/Onur-Store)** | React • Axios • MockAPI • React Router | [🔗 Live](https://onur-store-ltugr59wh-kapucuonurs-projects.vercel.app/) |
+| **[Food List](https://github.com/kapucuonur/food-list)** | React • State Management | [🔗 Live](https://dulcet-piroshki-9a2a9e.netlify.app/) |
+| **[Random User](https://github.com/kapucuonur/Ramdon-User)** | React • Axios • SweetAlert2 | [🔗 Live](https://ramdon-user-jnyoyr37k-kapucuonurs-projects.vercel.app/) |
+| **[Tutorial App](https://github.com/kapucuonur/tutorial-app)** | React • useState | [🔗 Live](https://tutorial-kzpy8h6dl-kapucuonurs-projects.vercel.app/) |
 | **[Netflix-App](https://github.com/kapucuonur/netflix-app)** | React • Bootstrap • Module CSS | [🔗 Live](https://netflix-app-rust.vercel.app/) |
+| **[Crypto-Coin-App](https://github.com/kapucuonur/cripto-coin-app)** | Vanilla JS • Bootstrap • Vite • API | [🔗 Live](https://silly-naiad-92ff9e.netlify.app/) |
+| **[Appointment App](https://github.com/kapucuonur/appointment-app)** | React • Bootstrap • LocalStorage | [🔗 Live](https://appointment-lthi0maps-kapucuonurs-projects.vercel.app/) |
+| **[Products-List](https://github.com/kapucuonur/Products-List)** | React • Bootstrap • SASS | [🔗 Live](https://products-list-jqd0l8fq8-kapucuonurs-projects.vercel.app/) |
+| **[Pictures-Gallery](https://github.com/kapucuonur/pictures-gallery)** | React • Bootstrap • Axios | [🔗 Live](https://pictures-gallery-fvdn1zejg-kapucuonurs-projects.vercel.app/) |
+| **[Football-Legends](https://github.com/kapucuonur/Football_Legends)** | React • useState • useEffect | [🔗 Live](https://footballegends.netlify.app/) |
 | **[Tetris-Game](https://github.com/kapucuonur/tetris-game)** | React • Python • CSS | [🔗 Live](https://tetris-game-3bln.onrender.com) |
+| **[Reminder-App](https://github.com/kapucuonur/Reminder-App)** | React • Module CSS • SCSS | [🔗 Live](https://fanciful-bavarois-6ec443.netlify.app/) |
+| **[Counter-App](https://github.com/kapucuonur/counter-app)** | React • useState | [🔗 Live](https://counter-e70dmrkd8-kapucuonurs-projects.vercel.app/) |
 
 </details>
 
@@ -233,7 +244,5 @@ If you find my projects helpful, consider supporting me:
 Made with ❤️ in Tampere, Finland 🇫🇮
 
 </div>
-
-```
 
 ```
