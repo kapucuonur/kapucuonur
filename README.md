@@ -33,9 +33,9 @@ const onur = {
 };
 ```
 
-I'm passionate about creating **impactful digital solutions** that solve real-world problems. From **AI-powered applications** to **complex e-commerce systems**, I enjoy the entire journey from concept to deployment.
+I'm a passionate engineer who bridges the gap between Web, Native, and Hardware. I don't just build websites; I create system utilities for macOS, develop wearable apps for Garmin, and build cross-platform mobile solutions.
 
-**What drives me:** Clean code, user experience, and continuous learning.
+Whether it's optimizing a React backend or writing low-level code for a smartwatch, I enjoy the entire journey from concept to deployment.
 
 ---
 
@@ -77,71 +77,72 @@ I'm passionate about creating **impactful digital solutions** that solve real-wo
 
 ---
 
-🌟 Featured Projects
+## 🌟 Featured Projects
+
 <div align="center">
 
-🚀 Top 3 Products (Live)
+### 🚀 Top 3 Products (Live)
+
 </div>
 
-<table> <tr> <td width="33%" valign="top">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-🖥️ WatchToMac
-Native macOS Utility
+### 🖥️ [WatchToMac](https://2236586809450.gumroad.com/l/kdrbne)
+
+**Native macOS Utility**
 
 Replaces "Android File Transfer" for Mac users. Mounts Garmin watches as local drives on Apple Silicon.
 
-Highlights:
+**Highlights:**
 
-🍏 Native Swift App
+* 🍏 Native Swift App
+* 💾 No more connectivity issues
+* ⚡ M1/M2/M3 Optimized
+* 🛠️ Drag & Drop Files
 
-💾 No more connectivity issues
+**Tech:** Swift, macOS, System
 
-⚡ M1/M2/M3 Optimized
+</td>
+<td width="33%" valign="top">
 
-🛠️ Drag & Drop Files
+### ⌚ [Ice Bath Tracker](https://apps.garmin.com/apps/9d9633a0-51a9-48c3-8fad-44de0e4277fc)
 
-Tech: Swift, macOS, System
-
-</td> <td width="33%" valign="top">
-
-⌚ Ice Bath Tracker
-Garmin Wearable App
+**Garmin Wearable App**
 
 Specialized app for tracking cold plunges. Monitors physiological response in real-time.
 
-Highlights:
+**Highlights:**
 
-❄️ Skin Temp Monitoring
+* ❄️ Skin Temp Monitoring
+* 💓 Heart Rate Adaptation
+* 📍 Garmin Connect Sync
+* ⏱️ Custom Session Timer
 
-💓 Heart Rate Adaptation
+**Tech:** Monkey C, Garmin CIQ
 
-📍 Garmin Connect Sync
+</td>
+<td width="33%" valign="top">
 
-⏱️ Custom Session Timer
+### 🇫🇮 [Learn Finnish](https://learn-finnish.fi)
 
-Tech: Monkey C, Garmin CIQ
-
-</td> <td width="33%" valign="top">
-
-🇫🇮 Learn Finnish
-Interactive Web Platform
+**Interactive Web Platform**
 
 A modern platform helping expats learn Finnish efficiently with AI-powered assistance.
 
-Highlights:
+**Highlights:**
 
-🧠 AI-Powered Learning
+* 🧠 AI-Powered Learning
+* 🎓 Interactive Lessons
+* 📱 Responsive Design
+* 🚀 Modern Web Stack
 
-🎓 Interactive Lessons
+**Tech:** Next.js, React, AI
 
-📱 Responsive Design
-
-🚀 Modern Web Stack
-
-Tech: Next.js, React, AI
-
-</td> </tr> </table>
-
+</td>
+</tr>
+</table>
 ---
 
 ## 📂 All Projects Portfolio
