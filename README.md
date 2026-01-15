@@ -33,9 +33,9 @@ const onur = {
 };
 ```
 
-I'm a passionate engineer who bridges the gap between Web, Native, and Hardware. I don't just build websites; I create system utilities for macOS, develop wearable apps for Garmin, and build cross-platform mobile solutions.
+I'm a passionate engineer who bridges the gap between **Web, Native, and Hardware**. I don't just build websites; I create **system utilities for macOS**, develop **wearable apps for Garmin**, and build **cross-platform mobile solutions**.
 
-Whether it's optimizing a React backend or writing low-level code for a smartwatch, I enjoy the entire journey from concept to deployment.
+Whether it's optimizing a React backend or writing low-level code for a smartwatch, I enjoy the entire journey from **concept to deployment**.
 
 ---
 
@@ -218,36 +218,34 @@ A modern platform helping expats learn Finnish efficiently with AI-powered assis
 ## 💼 What I Offer
 
 ```
-✅ Full Stack Web Development
-✅ AI/ML Integration (OpenAI, Google Gemini, TensorFlow)
-✅ E-commerce Solutions (Payment Integration)
-✅ RESTful API Development
-✅ Database Design & Optimization
-✅ Cloud Deployment (AWS, Netlify, Vercel)
-✅ Responsive UI/UX Design
-✅ Performance Optimization
+✅ Cross-Platform Mobile Development (Flutter/React Native)
+✅ Native macOS System Utilities (Swift)
+✅ Wearable App Development (Garmin Connect IQ)
+✅ Full Stack Web Development (MERN/Next.js)
+✅ AI/ML Integration (Gemini, TensorFlow)
+✅ Cloud Deployment & CI/CD
 ```
 
 ---
 
 ## 🎯 Currently
 
-- 🔭 Working on: **AI-powered SaaS applications**
-- 🌱 Learning: **Advanced ML, Cloud Architecture, Web3**
-- 👯 Looking to collaborate on: **Open-source projects, Startups**
-- 💼 Open to: **Full-time opportunities** (Remote / Helsinki / EU)
-- 🌐 Portfolio: **[onur-portfolio-website.netlify.app](https://onur-portfolio-website.netlify.app/)**
-- 📫 Reach me: **kapucuonur@hotmail.com**
+* 🔭 Launching: **WatchToMac (macOS Utility)** & **Ice Bath Tracker (Garmin)**
+* 🌱 Learning: **Advanced System Programming & Hardware Integration**
+* 👯 Looking to collaborate on: **Open-source System Tools**
+* 💼 Open to: **Full-time opportunities** (Remote / Helsinki / EU)
+* 🌐 Portfolio: **[onur-portfolio-website.netlify.app](https://onur-portfolio-website.netlify.app/)**
+* 📫 Reach me: **kapucuonur@hotmail.com**
 
 ---
 
 ## 📈 2025 Goals
 
-- [ ] Contribute to 5 major open-source projects
-- [ ] Launch a SaaS product
-- [ ] Master TypeScript & advanced patterns
-- [ ] Obtain AWS certification
-- [ ] Write 24 technical blog posts
+* [ ] Grow WatchToMac user base to 1000+ users
+* [ ] Publish 3 new Garmin Apps
+* [ ] Contribute to major Open Source projects
+* [ ] Master Swift & Metal for macOS
+* [ ] Create tech content on YouTube
 
 ---
 
