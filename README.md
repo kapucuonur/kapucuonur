@@ -10,7 +10,7 @@
 🛠️ Specialized in **React**, **Flutter**, **Swift**, and **System Utilities** 📍 Based in **Tampere, Finland** 🇫🇮  
 💼 **Open to new opportunities** - Remote | Hybrid | Relocation
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://onur-portfolio-website.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio2026-mu-tawny.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-kapucu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapucuonur@hotmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kapucuonur)
@@ -234,7 +234,7 @@ A modern platform helping expats learn Finnish efficiently with AI-powered assis
 * 🌱 Learning: **Advanced System Programming & Hardware Integration**
 * 👯 Looking to collaborate on: **Open-source System Tools**
 * 💼 Open to: **Full-time opportunities** (Remote / Helsinki / EU)
-* 🌐 Portfolio: **[onur-portfolio-website.netlify.app](https://onur-portfolio-website.netlify.app/)**
+* 🌐 Portfolio: **[onur-portfolio-website.netlify.app](https://portfolio2026-mu-tawny.vercel.app/)**
 * 📫 Reach me: **kapucuonur@hotmail.com**
 
 ---
@@ -253,7 +253,7 @@ A modern platform helping expats learn Finnish efficiently with AI-powered assis
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge)](https://onur-portfolio-website.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge)](https://portfolio2026-mu-tawny.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-kapucu/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapucuonur)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kapucuonur)
