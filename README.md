@@ -154,6 +154,8 @@ A modern platform helping expats learn Finnish efficiently with AI-powered assis
 
 | Project | Tech Stack | Live Demo |
 |---------|-----------|-----------|
+| **[Learn-Finnish](https://github.com/kapucuonur/LearnFinnish)** | Next.js • React • Google Gemini AI • Stripe • Firebase | [🔗 Live](https://learnfinnish.fi) |
+| **[CoachOnurAI](https://github.com/kapucuonur/AI-Coach)** | Next.js • React • PostgreSQL • Monkey C • REST API • Google Gemini AI • Stripe • Firebase | [🔗 Live](https://coachonurai.com) |
 | **[Digilibrary](https://github.com/kapucuonur/digilibrary-app)** | React • Node.js • MongoDB • Google AI • Stripe • Netlify | [🔗 Live](https://digilibray.netlify.app/) |
 | **[DevChatbot-AI](https://github.com/kapucuonur/DevChatbot-AI)** | React • Flask • TensorFlow • Groq API • Redux • SQLite | [🔗 Live](https://devchatbot-ai.onrender.com/) |
 | **[ChatbotVoice-AI](https://github.com/kapucuonur/chatbotvoice-AI)** | Flask • JavaScript • PostgreSQL • Web Speech API | [🔗 Live](https://chatbotvoice-ai.onrender.com) |
