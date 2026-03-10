@@ -156,6 +156,7 @@ A modern platform helping expats learn Finnish efficiently with AI-powered assis
 |---------|-----------|-----------|
 | **[Learn-Finnish](https://github.com/kapucuonur/LearnFinnish)** | Next.js • React • Google Gemini AI • Stripe • Firebase | [🔗 Live](https://learnfinnish.fi) |
 | **[CoachOnurAI](https://github.com/kapucuonur/AI-Coach)** | Next.js • React • PostgreSQL • Monkey C • REST API • Google Gemini AI • Stripe • Firebase | [🔗 Live](https://coachonurai.com) |
+| **[CoachOnurAI (Web + Wearable)](https://github.com/kapucuonur/coachonurai)** | Next.js • PostgreSQL • Monkey C • REST API | [🔗 Web](https://coachonurai.com) / [⌚ App](https://apps-developer.garmin.com/apps/48e12168-f92a-4cc4-a15f-bd04d92a4a8d) |
 | **[Ice Bath Tracker](https://github.com/kapucuonur/IceBath)** | Monkey C • Garmin CIQ SDK • Wearable Sensor API | [🔗 Live](https://apps-developer.garmin.com/apps/9d9633a0-51a9-48c3-8fad-44de0e4277fc) |
 | **[WatchToMac](https://github.com/kapucuonur/WatchToMac)** | Swift • macOS • AppKit • USB/MTP API | [🔗 Live](https://2236586809450.gumroad.com/l/kdrbne) |
 | **[Digilibrary](https://github.com/kapucuonur/digilibrary-app)** | React • Node.js • MongoDB • Google AI • Stripe • Netlify | [🔗 Live](https://digilibray.netlify.app/) |
