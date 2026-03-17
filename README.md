@@ -81,13 +81,30 @@ Whether it's optimizing a React backend or writing low-level code for a smartwat
 
 <div align="center">
 
-### 🚀 Top 3 Products (Live)
+### 🚀 Top Products (Live)
 
 </div>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### 🏃‍♂️ [CoachOnur AI (AI-Coach)](https://www.coachonurai.com/)
+
+**AI Coaching Platform**
+
+Production-ready endurance coaching system that analyzes real Garmin athlete data and generates personalized training decisions.
+
+**Highlights:**
+- 🔄 Garmin OAuth2 + real activity/sleep/HRV sync
+- 🤖 AI readiness + training plan generation (Gemini)
+- 💳 Stripe subscriptions + webhook sync
+- 📸 Nutrition Vision AI (meal photo → macros)
+
+**Tech:** React, FastAPI, PostgreSQL, Gemini, Stripe
+
+</td>
+<td width="50%" valign="top">
 
 ### 🖥️ [WatchToMac](https://2236586809450.gumroad.com/l/kdrbne)
 
@@ -96,16 +113,18 @@ Whether it's optimizing a React backend or writing low-level code for a smartwat
 Replaces "Android File Transfer" for Mac users. Mounts Garmin watches as local drives on Apple Silicon.
 
 **Highlights:**
-
-* 🍏 Native Swift App
-* 💾 No more connectivity issues
-* ⚡ M1/M2/M3 Optimized
-* 🛠️ Drag & Drop Files
+- 🍏 Native Swift App
+- 💾 No more connectivity issues
+- ⚡ M1/M2/M3 Optimized
+- 🛠️ Drag & Drop Files
 
 **Tech:** Swift, macOS, System
 
 </td>
-<td width="33%" valign="top">
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### ⌚ [Ice Bath Tracker](https://apps.garmin.com/apps/9d9633a0-51a9-48c3-8fad-44de0e4277fc)
 
@@ -114,16 +133,15 @@ Replaces "Android File Transfer" for Mac users. Mounts Garmin watches as local d
 Specialized app for tracking cold plunges. Monitors physiological response in real-time.
 
 **Highlights:**
-
-* ❄️ Skin Temp Monitoring
-* 💓 Heart Rate Adaptation
-* 📍 Garmin Connect Sync
-* ⏱️ Custom Session Timer
+- ❄️ Skin Temp Monitoring
+- 💓 Heart Rate Adaptation
+- 📍 Garmin Connect Sync
+- ⏱️ Custom Session Timer
 
 **Tech:** Monkey C, Garmin CIQ
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🇫🇮 [Learn Finnish](https://learn-finnish.fi)
 
@@ -132,11 +150,10 @@ Specialized app for tracking cold plunges. Monitors physiological response in re
 A modern platform helping expats learn Finnish efficiently with AI-powered assistance.
 
 **Highlights:**
-
-* 🧠 AI-Powered Learning
-* 🎓 Interactive Lessons
-* 📱 Responsive Design
-* 🚀 Modern Web Stack
+- 🧠 AI-Powered Learning
+- 🎓 Interactive Lessons
+- 📱 Responsive Design
+- 🚀 Modern Web Stack
 
 **Tech:** Next.js, React, AI
 
