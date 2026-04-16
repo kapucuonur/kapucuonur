@@ -233,6 +233,8 @@ Digital library with AI-enhanced search and personalized recommendations.
 
 <div align="center">
 
+
+
 ┌─────────────────────────────────────────────────────────────┐
 │                     INTERNET                                │
 └────────────────────────┬────────────────────────────────────┘
@@ -271,6 +273,8 @@ Digital library with AI-enhanced search and personalized recommendations.
 │    (16GB RAM)   │
 │   Hailo-8 NPU   │
 └─────────────────┘
+
+
 
 
 **Production Stack Running on Pi 5:**
