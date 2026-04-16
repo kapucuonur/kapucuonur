@@ -1,13 +1,12 @@
 <div align="center">
 
-
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Onur%20Kapucu%20👋&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Indie%20Developer%20%7C%20Product%20Creator&descSize=20&descAlignY=60)
 
 ### Software Engineer | Indie Developer | Product Creator
 
 🚀 Building cross-platform solutions for **Web, Mobile, & Native Systems** (macOS/Garmin)  
-🛠️ Specialized in **React**, **Flutter**, **Swift**, and **System Utilities** 📍 Based in **Tampere, Finland** 🇫🇮  
+🛠️ Specialized in **React**, **Flutter**, **Swift**, and **System Utilities**  
+📍 Based in **Tampere, Finland** 🇫🇮  
 💼 **Open to new opportunities** - Remote | Hybrid | Relocation
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio2026-mu-tawny.vercel.app/)
@@ -28,14 +27,15 @@ const onur = {
     experience: "3+ years",
     languages: ["TypeScript", "Swift", "Dart", "Python", "Monkey C"],
     coreStack: ["React/Next.js", "Flutter", "Native macOS", "Garmin CIQ"],
-    currentFocus: ["System Utilities", "Wearable Tech", "Cross-Platform Mobile"],
-    passion: "Building products that solve real problems."
+    currentFocus: ["System Utilities", "Wearable Tech", "Cross-Platform Mobile", "Self-Hosted Infrastructure"],
+    passion: "Building products that solve real problems.",
+    infrastructure: "Raspberry Pi 5 + Docker + Cloudflare Tunnels"
 };
 ```
 
-I'm a passionate engineer who bridges the gap between **Web, Native, and Hardware**. I don't just build websites; I create **system utilities for macOS**, develop **wearable apps for Garmin**, and build **cross-platform mobile solutions**.
+I'm a passionate engineer who bridges the gap between **Web, Native, and Hardware**. I don't just build websites; I create **system utilities for macOS**, develop **wearable apps for Garmin**, build **cross-platform mobile solutions**, and architect **self-hosted production infrastructure**.
 
-Whether it's optimizing a React backend or writing low-level code for a smartwatch, I enjoy the entire journey from **concept to deployment**.
+Whether it's optimizing a React backend, writing low-level code for a smartwatch, or deploying Dockerized apps on Raspberry Pi, I enjoy the entire journey from **concept to deployment**.
 
 ---
 
@@ -62,16 +62,23 @@ Whether it's optimizing a React backend or writing low-level code for a smartwat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### AI, Tools & Creative
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### AI & Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
 
@@ -81,7 +88,7 @@ Whether it's optimizing a React backend or writing low-level code for a smartwat
 
 <div align="center">
 
-### 🚀 Top Products (Live)
+### 🚀 Production-Ready Applications
 
 </div>
 
@@ -89,7 +96,7 @@ Whether it's optimizing a React backend or writing low-level code for a smartwat
 <tr>
 <td width="50%" valign="top">
 
-### 🏃‍♂️ [CoachOnur AI (AI-Coach)](https://www.coachonurai.com/)
+### 🏃‍♂️ [CoachOnur AI](https://www.coachonurai.com/)
 
 **AI Coaching Platform**
 
@@ -100,8 +107,12 @@ Production-ready endurance coaching system that analyzes real Garmin athlete dat
 - 🤖 AI readiness + training plan generation (Gemini)
 - 💳 Stripe subscriptions + webhook sync
 - 📸 Nutrition Vision AI (meal photo → macros)
+- 🐳 Deployed on self-hosted Pi 5 infrastructure
 
-**Tech:** React, FastAPI, PostgreSQL, Gemini, Stripe
+**Tech:** React, FastAPI, PostgreSQL, Gemini, Stripe, Docker
+
+[![Live Demo](https://img.shields.io/badge/Live-coachonurai.com-success?style=flat-square)](https://www.coachonurai.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/kapucuonur/AI-Coach)
 
 </td>
 <td width="50%" valign="top">
@@ -114,16 +125,40 @@ Replaces "Android File Transfer" for Mac users. Mounts Garmin watches as local d
 
 **Highlights:**
 - 🍏 Native Swift App
-- 💾 No more connectivity issues
-- ⚡ M1/M2/M3 Optimized
+- 💾 Solves critical M1/M2/M3 compatibility issues
+- ⚡ USB/MTP Protocol Implementation
 - 🛠️ Drag & Drop Files
 
-**Tech:** Swift, macOS, System
+**Tech:** Swift, SwiftUI, AppKit, System Programming
+
+[![Gumroad](https://img.shields.io/badge/Get-WatchToMac-FF90E8?style=flat-square&logo=gumroad)](https://2236586809450.gumroad.com/l/kdrbne)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/kapucuonur/WatchToMac)
 
 </td>
 </tr>
 
 <tr>
+<td width="50%" valign="top">
+
+### 🏨 [Hotel Booking System](https://github.com/kapucuonur/hotel-booking-app)
+
+**Full-Stack Reservation Platform**
+
+Production-ready hotel management system with real-time availability tracking and secure payment processing.
+
+**Highlights:**
+- 🐳 Fully Dockerized deployment
+- ☁️ Cloudflare Tunnel integration (secure external access)
+- 🔐 Secure booking workflow with validation
+- 📱 Responsive modern UI
+- 🖥️ Self-hosted on Raspberry Pi 5
+
+**Tech:** React, Node.js, Express, MongoDB, Docker, Cloudflare, TailwindCSS
+
+[![Live Demo](https://img.shields.io/badge/Live-hotel.trihonor.com-success?style=flat-square)](https://hotel.trihonor.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/kapucuonur/hotel-booking-app)
+
+</td>
 <td width="50%" valign="top">
 
 ### ⌚ [Ice Bath Tracker](https://apps.garmin.com/apps/9d9633a0-51a9-48c3-8fad-44de0e4277fc)
@@ -134,32 +169,120 @@ Specialized app for tracking cold plunges. Monitors physiological response in re
 
 **Highlights:**
 - ❄️ Skin Temp Monitoring
-- 💓 Heart Rate Adaptation
+- 💓 Heart Rate Adaptation Tracking
 - 📍 Garmin Connect Sync
 - ⏱️ Custom Session Timer
+- 📊 Recovery Analytics
 
-**Tech:** Monkey C, Garmin CIQ
+**Tech:** Monkey C, Garmin Connect IQ SDK
+
+[![Garmin Store](https://img.shields.io/badge/Get-Connect_IQ-007CC3?style=flat-square&logo=garmin)](https://apps.garmin.com/apps/9d9633a0-51a9-48c3-8fad-44de0e4277fc)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/kapucuonur/IceBath)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🇫🇮 [Learn Finnish](https://learn-finnish.fi)
 
 **Interactive Web Platform**
 
-A modern platform helping expats learn Finnish efficiently with AI-powered assistance.
+A modern SaaS platform helping expats learn Finnish efficiently with AI-powered assistance.
 
 **Highlights:**
-- 🧠 AI-Powered Learning
+- 🧠 AI-Generated Custom Stories (Gemini)
 - 🎓 Interactive Lessons
+- 💳 Stripe Payment Integration
 - 📱 Responsive Design
 - 🚀 Modern Web Stack
 
-**Tech:** Next.js, React, AI
+**Tech:** Next.js, React, Google Gemini AI, Stripe, Firebase
+
+[![Live Demo](https://img.shields.io/badge/Live-learn--finnish.fi-success?style=flat-square)](https://learn-finnish.fi)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/kapucuonur/LearnFinnish)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [DigiLibrary](https://digilibray.netlify.app/)
+
+**AI-Powered Book Platform**
+
+Digital library with AI-enhanced search and personalized recommendations.
+
+**Highlights:**
+- 🤖 AI-Powered Book Discovery
+- 💳 Stripe Integration
+- 🔍 Smart Search
+- 📖 Reading Analytics
+
+**Tech:** React, Node.js, MongoDB, Google AI, Stripe
+
+[![Live Demo](https://img.shields.io/badge/Live-digilibray.netlify.app-success?style=flat-square)](https://digilibray.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/kapucuonur/digilibrary-app)
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🏗️ Self-Hosted Infrastructure
+
+<div align="center">
+
+┌─────────────────────────────────────────────────────────────┐
+│                     INTERNET                                │
+└────────────────────────┬────────────────────────────────────┘
+│
+┌────▼─────┐
+│Cloudflare│
+│ Tunnel   │
+└────┬─────┘
+│
+┌───────────────┼───────────────┐
+│               │               │
+┌────▼─────┐   ┌────▼─────┐   ┌────▼─────┐
+│ CoachOnur│   │  Hotel   │   │   Blog   │
+│    AI    │   │  Booking │   │   App    │
+└────┬─────┘   └────┬─────┘   └────┬─────┘
+│               │               │
+└───────────────┼───────────────┘
+│
+┌────▼─────┐
+│  Nginx   │
+│ (Reverse │
+│  Proxy)  │
+└────┬─────┘
+│
+┌───────────────┼───────────────────┐
+│               │                   │
+┌────▼─────┐   ┌────▼─────┐      ┌─────▼──────┐
+│PostgreSQL│   │ MongoDB  │      │   Docker   │
+│Container │   │Container │      │ Containers │
+└──────────┘   └──────────┘      └────────────┘
+│               │                   │
+└───────────────┼───────────────────┘
+│
+┌────────▼────────┐
+│  Raspberry Pi 5 │
+│    (16GB RAM)   │
+│   Hailo-8 NPU   │
+└─────────────────┘
+
+
+**Production Stack Running on Pi 5:**
+- 🐳 Docker + Portainer for container orchestration
+- 🌐 Nginx reverse proxy routing
+- ☁️ Cloudflare Tunnels for secure external access
+- 🔐 Zero exposed ports (no port forwarding)
+- 🚀 Auto-deploy via Git hooks
+- 📊 Real-time monitoring with custom dashboards
+
+</div>
+
 ---
 
 ## 📂 All Projects Portfolio
@@ -240,35 +363,63 @@ A modern platform helping expats learn Finnish efficiently with AI-powered assis
 
 ## 💼 What I Offer
 
-```
-✅ Cross-Platform Mobile Development (Flutter/React Native)
-✅ Native macOS System Utilities (Swift)
-✅ Wearable App Development (Garmin Connect IQ)
-✅ Full Stack Web Development (MERN/Next.js)
-✅ AI/ML Integration (Gemini, TensorFlow)
-✅ Cloud Deployment & CI/CD
+```yaml
+Engineering Capabilities:
+  - Cross-Platform Mobile Development: Flutter, React Native
+  - Native System Utilities: Swift, macOS Development
+  - Wearable Tech: Garmin Connect IQ (Monkey C)
+  - Full Stack Web: MERN, Next.js, FastAPI
+  - AI/ML Integration: Gemini, TensorFlow, OpenAI
+  - DevOps & Infrastructure: Docker, Cloudflare, Self-Hosting
+  - Cloud Architecture: AWS, Azure, Firebase
+  - Database Design: PostgreSQL, MongoDB, Firebase
+
+Infrastructure Expertise:
+  - Self-hosted production environments (Raspberry Pi)
+  - Docker containerization & orchestration
+  - Nginx reverse proxy configuration
+  - Cloudflare Tunnels for secure access
+  - Git-based auto-deployment pipelines
+  - Zero-downtime deployments
 ```
 
 ---
 
 ## 🎯 Currently
 
-* 🔭 Launching: **WatchToMac (macOS Utility)** & **Ice Bath Tracker (Garmin)**
-* 🌱 Learning: **Advanced System Programming & Hardware Integration**
-* 👯 Looking to collaborate on: **Open-source System Tools**
-* 💼 Open to: **Full-time opportunities** (Remote / Helsinki / EU)
-* 🌐 Portfolio: **[onur-portfolio-website.netlify.app](https://portfolio2026-mu-tawny.vercel.app/)**
-* 📫 Reach me: **kapucuonur@hotmail.com**
+* 🔭 **Launching:** WatchToMac (macOS Utility) & Ice Bath Tracker (Garmin)
+* 🌱 **Learning:** Advanced System Programming & Hardware Integration
+* 🏗️ **Building:** Self-hosted AI coaching infrastructure on Pi 5
+* 👯 **Looking to collaborate on:** Open-source System Tools & Wearable Tech
+* 💼 **Open to:** Full-time opportunities (Remote / Helsinki / EU)
+* 🌐 **Portfolio:** [portfolio2026-mu-tawny.vercel.app](https://portfolio2026-mu-tawny.vercel.app/)
+* 📫 **Reach me:** kapucuonur@hotmail.com
 
 ---
 
-## 📈 2025 Goals
+## 📈 2026 Goals
 
+* [x] Successfully deploy production apps on self-hosted Pi 5 infrastructure
+* [x] Implement Cloudflare Tunnels for secure external access
 * [ ] Grow WatchToMac user base to 1000+ users
 * [ ] Publish 3 new Garmin Apps
 * [ ] Contribute to major Open Source projects
 * [ ] Master Swift & Metal for macOS
-* [ ] Create tech content on YouTube
+* [ ] Create tech content on YouTube/Medium
+
+---
+
+## 🏆 Key Achievements
+
+```diff
++ Built and deployed 30+ production applications
++ Architected self-hosted infrastructure serving real users
++ Created native macOS app solving critical M1/M2/M3 compatibility issues
++ Developed AI-powered coaching platform with Garmin integration
++ Published wearable apps on Garmin Connect IQ Store
++ Implemented secure zero-trust architecture with Cloudflare Tunnels
++ Managed full DevOps pipeline from development to production
+```
 
 ---
 
@@ -297,7 +448,10 @@ If you find my projects helpful, consider supporting me:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/onurbenn9)
 
+</div>
+
 ---
+
 <div align="center">
 
 ### "Code is like humor. When you have to explain it, it's bad." – Cory House
