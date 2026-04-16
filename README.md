@@ -235,44 +235,33 @@ Digital library with AI-enhanced search and personalized recommendations.
 
 
 
-┌─────────────────────────────────────────────────────────────┐
-│                     INTERNET                                │
-└────────────────────────┬────────────────────────────────────┘
-│
-┌────▼─────┐
-│Cloudflare│
-│ Tunnel   │
-└────┬─────┘
-│
-┌───────────────┼───────────────┐
-│               │               │
-┌────▼─────┐   ┌────▼─────┐   ┌────▼─────┐
-│ CoachOnur│   │  Hotel   │   │   Blog   │
-│    AI    │   │  Booking │   │   App    │
-└────┬─────┘   └────┬─────┘   └────┬─────┘
-│               │               │
-└───────────────┼───────────────┘
-│
-┌────▼─────┐
-│  Nginx   │
-│ (Reverse │
-│  Proxy)  │
-└────┬─────┘
-│
-┌───────────────┼───────────────────┐
-│               │                   │
-┌────▼─────┐   ┌────▼─────┐      ┌─────▼──────┐
-│PostgreSQL│   │ MongoDB  │      │   Docker   │
-│Container │   │Container │      │ Containers │
-└──────────┘   └──────────┘      └────────────┘
-│               │                   │
-└───────────────┼───────────────────┘
-│
-┌────────▼────────┐
-│  Raspberry Pi 5 │
-│    (16GB RAM)   │
-│   Hailo-8 NPU   │
-└─────────────────┘
+graph TD
+    subgraph Internet
+        User((Kullanıcı))
+    end
+
+    User -->|HTTPS| CF[Cloudflare Tunnel]
+    
+    subgraph "Raspberry Pi 5 (16GB RAM + Hailo-8 NPU)"
+        CF --> Nginx{Nginx Reverse Proxy}
+        
+        subgraph "Docker Containers"
+            Nginx --> App1[CoachOnur AI]
+            Nginx --> App2[Hotel Booking]
+            Nginx --> App3[Blog App]
+            Nginx --> App4[DevChatbot AI]
+        end
+        
+        subgraph "Databases"
+            App1 --- DB1[(PostgreSQL)]
+            App2 --- DB2[(SQLite/MongoDB)]
+            App3 --- DB1
+        end
+    end
+
+    style CF fill:#f38020,stroke:#333,stroke-width:2px,color:#fff
+    style Nginx fill:#009639,stroke:#333,stroke-width:2px,color:#fff
+    style App2 fill:#2496ed,stroke:#333,stroke-width:2px,color:#fff
 
 
 
