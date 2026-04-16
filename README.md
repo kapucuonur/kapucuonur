@@ -228,13 +228,11 @@ Digital library with AI-enhanced search and personalized recommendations.
 </table>
 
 ---
-
 ## 🏗️ Self-Hosted Infrastructure
 
 <div align="center">
 
-
-
+```mermaid
 graph TD
     subgraph Internet
         User((Kullanıcı))
@@ -262,8 +260,9 @@ graph TD
     style CF fill:#f38020,stroke:#333,stroke-width:2px,color:#fff
     style Nginx fill:#009639,stroke:#333,stroke-width:2px,color:#fff
     style App2 fill:#2496ed,stroke:#333,stroke-width:2px,color:#fff
+```
 
-
+</div>
 
 
 **Production Stack Running on Pi 5:**
