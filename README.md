@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Onur%20Kapucu%20👋&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Product%20Development%20%7C%20Founder%20@%20TriHonor&descSize=18&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Onur%20Kapucu%20👋&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20and%20AI%20Product%20Development&descSize=20&descAlignY=60)
 
 ### Software Engineer | Full-Stack & AI Product Development | Founder @ TriHonor
 
