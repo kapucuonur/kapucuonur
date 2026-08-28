@@ -5,7 +5,7 @@
 ### Software Engineer | Full-Stack & AI Product Development | Founder @ TriHonor
 
 🚀 Building production AI, web, mobile & wearable products end-to-end
-🛠️ React, Python/FastAPI, LLM Integration, Computer Vision, Garmin/Wearables
+🛠️ React/React Native, TypeScript, Python/FastAPI, LLM Integration, Computer Vision, Garmin/Wearables
 📍 Based in **Tampere, Finland** 🇫🇮
 ✅ Finnish permanent residence — full right to work, no sponsorship needed
 💼 **Open to opportunities** — Full-time | Hybrid | Remote
@@ -23,12 +23,13 @@
 
 ```javascript
 const onur = {
+    const onur = {
     location: "Tampere, Finland",
     role: "Software Engineer, Founder @ TriHonor",
     since: "2022",
     languages: ["Python", "TypeScript", "Swift", "Dart", "Monkey C"],
-    coreStack: ["React/FastAPI", "PostgreSQL", "Docker", "LLM Integration", "Computer Vision"],
-    currentFocus: ["AI Product Engineering", "Self-Hosted Infrastructure", "Wearable Tech"],
+    coreStack: ["React/React Native", "FastAPI", "PostgreSQL", "Docker", "LLM Integration"],
+    currentFocus: ["AI Product Engineering", "Native Mobile (React Native/Expo)", "Self-Hosted Infrastructure"],
     passion: "Taking AI products from idea to real, paying users.",
     infrastructure: "Raspberry Pi 5 + Hailo-8 NPU + Docker + Cloudflare Tunnels"
 };
@@ -101,13 +102,13 @@ Founder of **TriHonor Oy**, a registered Finnish software company: 30+ shipped p
 ### 🏃‍♂️ [CoachOnur AI](https://www.coachonurai.com/)
 
 **AI Coaching Platform**
+Production AI coaching system: real-time Garmin sync (HRV, sleep, activity), Gemini-powered training decisions, Stripe subscriptions, native Android app. Native (React Native/Expo) mobile rewrite in progress.
 
-Production AI coaching system: real-time Garmin sync (HRV, sleep, activity), Gemini-powered training decisions, Stripe subscriptions, native Android app.
-
-**Tech:** React, FastAPI, PostgreSQL, Gemini, Stripe, Kotlin, Docker
+**Tech:** React, React Native, FastAPI, PostgreSQL, Gemini, Stripe, Kotlin, Docker
 
 [![Live Demo](https://img.shields.io/badge/Live-coachonurai.com-success?style=flat-square)](https://www.coachonurai.com/)
 [![GitHub](https://img.shields.io/badge/Architecture-AI--Coach--Demo-181717?style=flat-square&logo=github)](https://github.com/kapucuonur/AI-Coach-Demo)
+[![Native](https://img.shields.io/badge/Native-React_Native-61DAFB?style=flat-square&logo=react)](https://github.com/kapucuonur/ai-coach-native)
 
 </td>
 <td width="50%" valign="top">
